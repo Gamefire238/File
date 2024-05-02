@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="General",Trans7
+https://w2.btstream.xyz:2053/tv/hustlerhd/chunks.m3u8?nimblesessionid=14453974&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgNzozMzoxMCBBTSZoYXNoX3ZhbHVlPTVBYkdaazQxR0ZFRFRqL1FzcDB2MVE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="General",Trans TV
+https://w2.btstream.xyz:2053/tv/penthousepassion/chunks.m3u8?nimblesessionid=14453944&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgNzozMjoyMyBBTSZoYXNoX3ZhbHVlPTFtdithQVRpVitiT3p2MjI1Y3piVXc9PSZ2YWxpZG1pbnV0ZXM9NjA=
