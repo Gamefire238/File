@@ -1,0 +1,11 @@
+###close-teaser
+##.kln
+##.close-button
+
+||blogger.googleusercontent.com/*.gif$image
+||3.bp.blogspot.com/*.gif$image
+||3.bp.blogspot.com/*close.png$image
+
+||img.shinigami.ae/*.gif$image
+##div[style="max-width: 100%;margin-bottom:5px;text-align:center;"]
+shinigami07.com##div[style="max-width: 100%;margin-bottom:5px;text-align:center;"]
