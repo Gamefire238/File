@@ -1,4 +1,4 @@
-! Title: Myfilte
+! Title: MyFilter
 ! Description: personal experiential filter 
 
 
