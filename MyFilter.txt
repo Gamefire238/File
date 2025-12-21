@@ -7,15 +7,11 @@
 ||3.bp.blogspot.com/*close.png$image
 ||rocketcdn.me/*.gif$image
 
-||shinigami.*/*.webp$image
-||img.shinigami*/*.gif$image
-##div[style="max-width: 100%;margin-bottom:5px;text-align:center;"]
-shinigami09.com##.iklannew-container
-shinigami09.com##div[style="max-width: 100%;margin-bottom:5px;text-align:center;"]
-
 ||komikcast*gif$image
 
 otakudesu.cloud##.chain
 otakudesu.cloud###overplay
 
 ||anichin*gif$image
+
+||blogger.googleusercontent.com/img/a/*$third-party,domain=animasu.app
