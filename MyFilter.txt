@@ -1,21 +1,16 @@
 ! Title: MyFilter
 ! Description: personal experiential filter 
 
-
+@@Logo.png
 ###close-teaser
 ##.kln
 ##.close-button
-
+otakudesu.cloud##.chain
+otakudesu.cloud###overplay
 ||blogger.googleusercontent.com/*.gif$image
 ||3.bp.blogspot.com/*.gif$image
 ||3.bp.blogspot.com/*close.png$image
 ||rocketcdn.me/*.gif$image
-
 ||komikcast*gif$image
-
-otakudesu.cloud##.chain
-otakudesu.cloud###overplay
-
 ||anichin*gif$image
-
 ||blogger.googleusercontent.com/img/$third-party
