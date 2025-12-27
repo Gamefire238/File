@@ -18,4 +18,4 @@ otakudesu.cloud###overplay
 
 ||anichin*gif$image
 
-||blogger.googleusercontent.com/img*$third-party,domain=animasu.app,doujindesu.xxx,doujindesu.tv
+||blogger.googleusercontent.com/img/*$third-party,domain=animasu.app,doujindesu.tv
