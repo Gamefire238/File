@@ -1,7 +1,7 @@
 ! Title: MyFilter
 ! Description: personal experiential filter 
 
-@@Logo.png
+@@||Logo.png^
 ###close-teaser
 ##.kln
 ##.close-button
@@ -14,3 +14,4 @@ otakudesu.cloud###overplay
 ||komikcast*gif$image
 ||anichin*gif$image
 ||blogger.googleusercontent.com/img/$third-party
+||close.png^$image
