@@ -9,9 +9,9 @@ otakudesu.cloud##.chain
 otakudesu.cloud###overplay
 ||blogger.googleusercontent.com/*.gif$image
 ||3.bp.blogspot.com/*.gif$image
-! ||3.bp.blogspot.com/*close.png$image
+||*close.png$image
 ||rocketcdn.me/*.gif$image
 ||komikcast*gif$image
 ||anichin*gif$image
 ||blogger.googleusercontent.com/img/$third-party
-||*close.png^$image
+komikcast*,komikindo.ch#%#//scriptlet('ubo-nowoif')
