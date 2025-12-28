@@ -1,15 +1,15 @@
 ! Title: MyFilter
 ! Description: personal experiential filter 
 
-! ----------- element hiding rules -----------!
+! --------- element hiding rules ------------!
 ###close-teaser
 ##.kln
 ##.close-button
 otakudesu.cloud##.chain
 otakudesu.cloud###overplay
 
-! ---------- advert blocking filters ----------!
-! Confirmed ad servers
+! --------- advert blocking filters ---------!
+! Ad Servers
 ||blogger.googleusercontent.com/*.gif$image
 ||3.bp.blogspot.com/*.gif$image
 ||*close.png$image
