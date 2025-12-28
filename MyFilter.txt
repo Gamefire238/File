@@ -14,4 +14,3 @@ otakudesu.cloud###overplay
 ||komikcast*gif$image
 ||anichin*gif$image
 ||blogger.googleusercontent.com/img/$third-party
-komikcast*,komikindo.ch#%#//scriptlet('ubo-nowoif')
