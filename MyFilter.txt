@@ -5,8 +5,6 @@
 ###close-teaser
 ##.kln
 ##.close-button
-otakudesu.best##.chain
-otakudesu.best###overplay
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
