@@ -2,18 +2,18 @@
 ! Description: personal experiential filter 
 
 ! --------- element hiding rules ------------!
-###close-teaser
 ##.kln
 ##.close-button
+###close-teaser
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
-||blogger.googleusercontent.com/*.gif$image
-||3.bp.blogspot.com/*.gif$image
 ||*close.png$image
-||rocketcdn.me/*.gif$image
-||komikcast*gif$image
 ||anichin*gif$image
+||komikcast*gif$image
+||rocketcdn.me/*.gif$image
+||3.bp.blogspot.com/*.gif$image
+||blogger.googleusercontent.com/*.gif$image
 ||blogger.googleusercontent.com/img/$third-party
 
 ! General Allowlist for Network Filters
