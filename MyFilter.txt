@@ -13,8 +13,8 @@
 ||komikcast*gif$image
 ||rocketcdn.me/*.gif$image
 ||3.bp.blogspot.com/*.gif$image
-||blogger.googleusercontent.com/*.gif$image
-||blogger.googleusercontent.com/img/$third-party
+||blogger.googleusercontent.com/*.gif$third-party
+! ||blogger.googleusercontent.com/img/$third-party
 
 ! General Allowlist for Network Filters
 @@||*Logo.png^
