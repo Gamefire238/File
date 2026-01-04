@@ -8,7 +8,8 @@
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
-||3.bp.blogspot.com/*/close.png^
+
+||*close.gif$image
 ||*close.png$image
 ||anichin*gif$image
 ||komikcast*gif$image
