@@ -5,10 +5,21 @@
 ##.kln
 ##.close-button
 ###close-teaser
+lajangspot.web.id##.gridmax-box-inside
+lajangspot.web.id###gridmax-main-wrapper > .theiaStickySidebar
+lajangspot.web.id###gridmax-sidebar-one-wrapper > .theiaStickySidebar
+mbantul.my.id##.gridmax-box-inside
+mbantul.my.id###gridmax-main-wrapper > .theiaStickySidebar
+mbantul.my.id##center:nth-of-type(1)
+f95zone.to###topNotice
+newsbico.com###gridmax-wrapper-outside
+newsbico.com###floating_ads_bottom_textcss_wrap
+bewbin.com###gridmax-primary-navigation
+go.bicolink.net##.navbar-default.navbar
+
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
-
 ||*close.gif$image
 ||*close.png$image
 ||anichin*gif$image
@@ -16,6 +27,7 @@
 ||rocketcdn.me/*.gif$image
 ||3.bp.blogspot.com/*.gif$image
 ||blogger.googleusercontent.com/*.gif$third-party
+||hilltopads.xyz/ads-enc^$image
 ! ||blogger.googleusercontent.com/img/$third-party
 
 ! General Allowlist for Network Filters
