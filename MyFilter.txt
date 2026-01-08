@@ -9,6 +9,7 @@
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
+ads-enc
 ||*close.gif^$image
 ||*close.png^$image
 ||anichin*gif^$image
@@ -16,8 +17,8 @@
 ||rocketcdn.me/*.gif^$image
 ||3.bp.blogspot.com/*.gif^$image
 ! ||blogger.googleusercontent.com/*.gif$third-party
-||hilltopads.xyz/ads-enc^$image
-||blogger.googleusercontent.com/img/*^$third-party
+! ||hilltopads.xyz/ads-enc$image
+||blogger.googleusercontent.com/img^$image,third-party
 
 ! General Allowlist for Network Filters
 @@||*Logo.png^
