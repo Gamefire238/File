@@ -6,7 +6,8 @@
 ##.close-button
 ###close-teaser
 ##div#floatcenter, span#close-teaser
-## #boxContent { display: block !important; }
+##+js(aopr, open)
+bicolink.net##+js(aopr, location)
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
