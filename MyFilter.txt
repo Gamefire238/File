@@ -6,6 +6,8 @@
 ##.close-button
 ###close-teaser
 ##div#floatcenter, span#close-teaser
+##div:has(span:has-text(Tutup Iklan))
+##div#floatcenter:style(display:none !important)
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
