@@ -19,4 +19,4 @@
 ||blogger.googleusercontent.com/img/$third-party
 
 ! General Allowlist for Network Filters
-!@@||*Logo.png^
+@@||*Logo.png^
