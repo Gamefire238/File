@@ -17,7 +17,7 @@
 ||3.bp.blogspot.com/*.gif^$image
 ! ||blogger.googleusercontent.com/*.gif$third-party
 ||hilltopads.xyz/ads-enc^$image
-||blogger.googleusercontent.com/img/^$third-party
+||blogger.googleusercontent.com/img/*^$third-party
 
 ! General Allowlist for Network Filters
 @@||*Logo.png^
