@@ -6,6 +6,7 @@
 ##.close-button
 ###close-teaser
 ##div#floatcenter, span#close-teaser
+## #boxContent { display: block !important; }
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
