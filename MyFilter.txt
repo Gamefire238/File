@@ -9,15 +9,15 @@
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
-||*close.gif$image
-||*close.png$image
-||anichin*gif$image
-||komikcast*gif$image
-||rocketcdn.me/*.gif$image
-||3.bp.blogspot.com/*.gif$image
+||*close.gif^$image
+||*close.png^$image
+||anichin*gif^$image
+||komikcast*gif^$image
+||rocketcdn.me/*.gif^$image
+||3.bp.blogspot.com/*.gif^$image
 ! ||blogger.googleusercontent.com/*.gif$third-party
 ||hilltopads.xyz/ads-enc^$image
-||blogger.googleusercontent.com/img/$third-party
+||blogger.googleusercontent.com/img/^$third-party
 
 ! General Allowlist for Network Filters
 @@||*Logo.png^
