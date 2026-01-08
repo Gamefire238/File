@@ -5,18 +5,6 @@
 ##.kln
 ##.close-button
 ###close-teaser
-lajangspot.web.id##.gridmax-box-inside
-lajangspot.web.id###gridmax-main-wrapper > .theiaStickySidebar
-lajangspot.web.id###gridmax-sidebar-one-wrapper > .theiaStickySidebar
-mbantul.my.id##.gridmax-box-inside
-mbantul.my.id###gridmax-main-wrapper > .theiaStickySidebar
-mbantul.my.id##center:nth-of-type(1)
-f95zone.to###topNotice
-newsbico.com###gridmax-wrapper-outside
-newsbico.com###floating_ads_bottom_textcss_wrap
-bewbin.com###gridmax-primary-navigation
-go.bicolink.net##.navbar-default.navbar
-
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
