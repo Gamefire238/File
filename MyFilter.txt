@@ -5,6 +5,8 @@
 ##.kln
 ##.close-button
 ###close-teaser
+
+! --------- Scriptlet blocking filters ------!
 ##div#floatcenter, span#close-teaser
 ##+js(aopr, open)
 bicolink.net##+js(aopr, location)
