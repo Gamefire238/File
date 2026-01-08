@@ -5,6 +5,7 @@
 ##.kln
 ##.close-button
 ###close-teaser
+##div#floatcenter, span#close-teaser
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
