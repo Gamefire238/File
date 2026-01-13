@@ -15,12 +15,11 @@ bicolink.net##+js(aopr, location)
 ! --------- advert blocking filters ---------!
 ! Ad Servers
 ads-enc
-||*close.gif^$image
-||*close.png^$image
 ||anichin*gif^$image
 ||komikcast*gif^$image
 ||rocketcdn.me/*.gif^$image
 ||3.bp.blogspot.com/*.gif^$image
+||blogspot.com*close*^$image,third-party
 ||blogger.googleusercontent.com/img^$image,third-party
 
 ! ||blogger.googleusercontent.com/*.gif$third-party
