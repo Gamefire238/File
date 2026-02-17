@@ -5,12 +5,12 @@
 ##.kln
 ##.close-button
 ###close-teaser
-!lajangspot.web.id,newsbico.com,bewbin.com###gridmax-wrapper-outside
+lajangspot.web.id,newsbico.com,bewbin.com###gridmax-wrapper-outside
 
 ! --------- Scriptlet blocking filters ------!
-##div#floatcenter, span#close-teaser
-##+js(aopr, open)
-bicolink.net##+js(aopr, location)
+!##div#floatcenter, span#close-teaser
+!##+js(aopr, open)
+!bicolink.net##+js(aopr, location)
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
