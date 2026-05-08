@@ -23,7 +23,7 @@ ads-enc
 ||blogger.googleusercontent.com/img^$image,third-party
 
 ! ||blogger.googleusercontent.com/*.gif$third-party
-! ||hilltopads.xyz/ads-enc$image
+||hilltopads.xyz^
 
 ! General Allowlist for Network Filters
 @@||*Logo.png^
