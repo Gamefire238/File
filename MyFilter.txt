@@ -20,7 +20,7 @@ ads-enc
 ||rocketcdn.me/*.gif^$image
 ||3.bp.blogspot.com/*.gif^$image
 ||blogspot.com*close*^$image,third-party
-||blogger.googleusercontent.com/img^$image,third-party
+||blogger.googleusercontent.com/img^$third-party
 ||*video*/*/*/*/*/*^$media,third-party
 ||ssl.p.jwpcdn.com/player/v/*/vast.js$script
 
