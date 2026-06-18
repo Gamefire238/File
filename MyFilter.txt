@@ -21,6 +21,7 @@ ads-enc
 ||3.bp.blogspot.com/*.gif^$image
 ||blogspot.com*close*^$image,third-party
 ||blogger.googleusercontent.com/img^$image,third-party
+||*video*/*/*/*/*/*^$media,third-party
 
 ! ||blogger.googleusercontent.com/*.gif$third-party
 ||hilltopads.xyz^
