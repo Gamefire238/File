@@ -22,6 +22,7 @@ ads-enc
 ||blogspot.com*close*^$image,third-party
 ||blogger.googleusercontent.com/img^$image,third-party
 ||*video*/*/*/*/*/*^$media,third-party
+||ssl.p.jwpcdn.com/player/v/*/vast.js$script
 
 ! ||blogger.googleusercontent.com/*.gif$third-party
 ||hilltopads.xyz^
