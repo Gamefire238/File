@@ -11,6 +11,7 @@
 !##div#floatcenter, span#close-teaser
 !##+js(aopr, open)
 !bicolink.net##+js(aopr, location)
+##div[id*="-player-ads"]
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
