@@ -18,8 +18,8 @@
 ads-enc
 ! ||anichin*gif^$image
 ! ||komikcast*gif^$image
-! ||rocketcdn.me/*.gif^$image
-! ||3.bp.blogspot.com/*.gif^$image
+||rocketcdn.me/*.gif^$image
+||3.bp.blogspot.com/*.gif^$image
 ||blogspot.com*close*^$image,third-party
 ||blogger.googleusercontent.com/img^$third-party
 ||*video*/*/*/*/*/*^$media,third-party
@@ -27,7 +27,7 @@ ads-enc
 ||hilltopads.xyz^
 
 ! Combined Filter 
-.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|rocketcdn.me|3.bp.blogspot.com
+.gif$image,domain=otakudesu.*|komikcast.*|anichin.*
 
 ! General Allowlist for Network Filters
 @@||*Logo.png^
