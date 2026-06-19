@@ -27,7 +27,7 @@ ads-enc
 ||hilltopads.xyz^
 
 ! Combined Filter 
-.gif$image,domain=otakudesu.*|komikcast.*|anichin.*
+.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*
 
 ! General Allowlist for Network Filters
 @@||*Logo.png^
