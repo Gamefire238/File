@@ -24,7 +24,7 @@ ads-enc
 ||blogger.googleusercontent.com/img^$third-party
 ||*video*/*/*/*/*/*^$media,third-party
 ||ssl.p.jwpcdn.com/player/v/*/vast.js$script
-.gif$image,domain=otakudesu.*|komikcast.*|anichin.*
+.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|
 ! ||blogger.googleusercontent.com/*.gif$third-party
 ||hilltopads.xyz^
 
