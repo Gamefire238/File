@@ -16,15 +16,15 @@
 ! --------- advert blocking filters ---------!
 ! Ad Servers
 ads-enc
-||anichin*gif^$image
-||komikcast*gif^$image
+!||anichin*gif^$image
+!||komikcast*gif^$image
 ||rocketcdn.me/*.gif^$image
 ||3.bp.blogspot.com/*.gif^$image
 ||blogspot.com*close*^$image,third-party
 ||blogger.googleusercontent.com/img^$third-party
 ||*video*/*/*/*/*/*^$media,third-party
 ||ssl.p.jwpcdn.com/player/v/*/vast.js$script
-
+.gif$image,domain=otakudesu.*|komikcast*|anichin*
 ! ||blogger.googleusercontent.com/*.gif$third-party
 ||hilltopads.xyz^
 
