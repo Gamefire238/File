@@ -4,7 +4,7 @@
 
 ! --------- element hiding rules ------------!
 shinigami.*##.bg-base-card.aspect-\[16\/2\]
-shinigami.*##img[src*="game-popup"]:upward(.fixed.top-0.left-0)
+shinigami.*##.fixed.top-0.left-0.w-screen.h-screen:has(.bg-base-bg.rounded-24)
 
 ! --------- Scriptlet blocking filters ------!
 
