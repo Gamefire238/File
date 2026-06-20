@@ -4,12 +4,14 @@
 
 ! --------- element hiding rules ------------!
 shinigami.*##.bg-base-card.aspect-\[16\/2\]
+shinigami.*##img[src*="game-popup"]:upward(.fixed.top-0.left-0)
 
 ! --------- Scriptlet blocking filters ------!
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
 ads-enc
+game-popup
 ||hilltopads.xyz^
 ||anichin*gif^$image
 ||komikcast*gif^$image
