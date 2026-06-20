@@ -4,7 +4,7 @@
 
 ! --------- element hiding rules ------------!
 shinigami.*##.bg-base-card.aspect-\[16\/2\]
-shinigami.*##.z-\[500\].backdrop-blur-sm.bg-base-bg\/40.fixed
+shinigami.*##.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
 
 ! --------- Scriptlet blocking filters ------!
 
