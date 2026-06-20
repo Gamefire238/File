@@ -11,20 +11,22 @@
 !##div#floatcenter, span#close-teaser
 !##+js(aopr, open)
 !bicolink.net##+js(aopr, location)
-##div[id*="-player-ads"]
+!##div[id*="-player-ads"]
 
 ! --------- advert blocking filters ---------!
 ! Ad Servers
 ads-enc
-! ||anichin*gif^$image
-! ||komikcast*gif^$image
+||hilltopads.xyz^
+||anichin*gif^$image
+||komikcast*gif^$image
 ||rocketcdn.me/*.gif^$image
 ||3.bp.blogspot.com/*.gif^$image
 ||blogspot.com*close*^$image,third-party
 ||blogger.googleusercontent.com/img^$third-party
 ||*video*/*/*/*/*/*^$media,third-party
-||ssl.p.jwpcdn.com/player/v/*/vast.js$script
-||hilltopads.xyz^
+||bewbin.*^$image
+||bicolink.*^$image
+||lajangspot.web.id^$image
 
 ! Combined Filter 
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*
