@@ -3,6 +3,7 @@
 ! Description: personal experiential filter 
 
 ! --------- element hiding rules ------------!
+shinigami.*##.bg-base-card.aspect-\[16\/2\]
 
 ! --------- Scriptlet blocking filters ------!
 
