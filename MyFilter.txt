@@ -26,3 +26,4 @@ ads-enc
 
 ! General Allowlist for Network Filters
 ! @@||*Logo.png^
+@@||*Logo.*^$image,domain=anichin.*
