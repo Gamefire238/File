@@ -25,4 +25,4 @@ ads-enc
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*
 
 ! General Allowlist for Network Filters
-@@||*Logo.*^
+! @@||*Logo.png^
