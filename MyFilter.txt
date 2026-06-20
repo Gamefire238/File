@@ -22,7 +22,7 @@ ads-enc
 ||lajangspot.web.id^$image
 
 ! Combined Filter 
-.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*
+.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*
 
 ! General Allowlist for Network Filters
 ! @@||*Logo.png^
