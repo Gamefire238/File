@@ -1,18 +1,18 @@
 ! Title: MyFilter
 ! Description: personal experiential filter 
-
+!
 ! --------- element hiding rules ------------!
 ##.kln
 ##.close-button
 ###close-teaser
 ! lajangspot.web.id,newsbico.com,bewbin.com###gridmax-wrapper-outside
-
+!
 ! --------- Scriptlet blocking filters ------!
 !##div#floatcenter, span#close-teaser
 !##+js(aopr, open)
 !bicolink.net##+js(aopr, location)
 !##div[id*="-player-ads"]
-
+!
 ! --------- advert blocking filters ---------!
 ! Ad Servers
 ads-enc
@@ -27,9 +27,9 @@ ads-enc
 ||bewbin.*^$image
 ||bicolink.*^$image
 ||lajangspot.web.id^$image
-
+!
 ! Combined Filter 
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*
-
+!
 ! General Allowlist for Network Filters
 @@||*Logo.png^
