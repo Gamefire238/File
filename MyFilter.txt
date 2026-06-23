@@ -17,10 +17,10 @@ game-popup
 ! ||desu*gif^$image
 ||anichin*gif^$image
 ||komikcast*gif^$image
-||rocketcdn.me/*.gif^$image
+||rocketcdn.*.gif^$image
 ||3.bp.blogspot.com/*.gif^$image
 ||blogspot.com*close*^$image,3p
-||blogger.googleusercontent.com*/s*^$image,3p
+||blogger.googleusercontent.com^$image,3p
 ||*video*/*/*/*/*/*^$media,3p
 ||bewbin.*^$image
 ||bicolink.*^$image
