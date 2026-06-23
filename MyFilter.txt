@@ -25,7 +25,7 @@ game-popup
 ||lajangspot.web.id^$image
 
 ! Combined Filter 
-.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*
+.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|doujin*
 
 ! General Allowlist for Network Filters
 ! @@||*Logo.png^
