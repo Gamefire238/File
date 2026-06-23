@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: MyFilter
 ! Description: personal experiential filter 
+! $third-party = $3p
 
 ! --------- element hiding rules ------------!
 shinigami.*##.bg-base-card.aspect-\[16\/2\]
@@ -18,9 +19,9 @@ game-popup
 ||komikcast*gif^$image
 ||rocketcdn.me/*.gif^$image
 ||3.bp.blogspot.com/*.gif^$image
-||blogspot.com*close*^$image,third-party
-||blogger.googleusercontent.com/img^$third-party
-||*video*/*/*/*/*/*^$media,third-party
+||blogspot.com*close*^$image,3p
+||blogger.googleusercontent.com/img^$3p
+||*video*/*/*/*/*/*^$media,3p
 ||bewbin.*^$image
 ||bicolink.*^$image
 ||lajangspot.web.id^$image
@@ -29,5 +30,4 @@ game-popup
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*
 
 ! General Allowlist for Network Filters
-! @@||*Logo.png^
 @@||*Logo.*^$image,domain=anichin.*
