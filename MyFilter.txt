@@ -20,7 +20,7 @@ game-popup
 ||rocketcdn.me/*.gif^$image
 ||3.bp.blogspot.com/*.gif^$image
 ||blogspot.com*close*^$image,3p
-||blogger.googleusercontent.com*s728^$image,3p
+||blogger.googleusercontent.com*/s*^$image,3p
 ||*video*/*/*/*/*/*^$media,3p
 ||bewbin.*^$image
 ||bicolink.*^$image
