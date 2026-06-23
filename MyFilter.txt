@@ -1,4 +1,4 @@
-[Adblock Plus]
+[Adblock Plus 2.0]
 ! Title: MyFilter
 ! Description: personal experiential filter 
 ! $third-party = $3p
