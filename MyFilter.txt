@@ -13,6 +13,7 @@ shinigami.*##.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-
 ads-enc
 game-popup
 ||hilltopads.xyz^
+||doujin*gif^$image
 ||anichin*gif^$image
 ||komikcast*gif^$image
 ||rocketcdn.me/*.gif^$image
@@ -25,7 +26,7 @@ game-popup
 ||lajangspot.web.id^$image
 
 ! Combined Filter 
-.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|doujin*
+.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|doujin.*
 
 ! General Allowlist for Network Filters
 ! @@||*Logo.png^
