@@ -33,3 +33,4 @@ game-popup
 
 ! General Allowlist for Network Filters
 @@||*Logo.*^$image,domain=anichin.*
+@@||blogger.*/500/^$image,domain=desu.*
