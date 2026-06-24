@@ -27,7 +27,7 @@ game-popup
 ||bewbin.*^$image
 ||bicolink.*^$image
 ||lajangspot.*^$image
-||blogger.*/(s1600*|s700)/*^$image,3p
+||blogger.*/(s1600*|s728)/*^$image,3p
 
 ! Generic Resource Block 
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*
