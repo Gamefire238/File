@@ -22,7 +22,7 @@ game-popup
 ||rocketcdn.*gif^$image
 ||3.bp.blogspot.com/*.gif^$image
 ||blogspot.com*close*^$image,3p
-||blogger.googleusercontent.com/img^$image,3p
+||blogger.*/img^$image,3p
 ||*video*/*/*/*/*/*^$media,3p
 ||bewbin.*^$image
 ||bicolink.*^$image
