@@ -9,11 +9,13 @@ shinigami.*##.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-
 
 ! --------- Scriptlet blocking filters ------!
 
-! --------- advert blocking filters ---------!
-! Ad Servers
+! -------------- Network filters ------------!
+! Domain-based Block
 ads-enc
 game-popup
 ||hilltopads.*^
+
+! Pattern-based Block
 ||desu*gif^$image
 ||anichin*gif^$image
 ||komikcast*gif^$image
@@ -26,7 +28,7 @@ game-popup
 ||bicolink.*^$image
 ||lajangspot.*^$image
 
-! Combined Filter 
+! Generic Resource Block 
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*
 
 ! General Allowlist for Network Filters
