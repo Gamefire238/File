@@ -22,11 +22,12 @@ game-popup
 ||rocketcdn.*gif^$image
 ||3.bp.blogspot.com/*.gif^$image
 ||blogspot.com*close*^$image,3p
-||blogger.*/img^$image,3p
+! ||blogger.*/img^$image,3p
 ||*video*/*/*/*/*/*^$media,3p
 ||bewbin.*^$image
 ||bicolink.*^$image
 ||lajangspot.*^$image
+||blogger.*/(s1600*|s700)/*^$image,3p
 
 ! Generic Resource Block 
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*
