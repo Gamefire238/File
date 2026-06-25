@@ -29,7 +29,7 @@ game-popup
 ||lajangspot.*^$image
 
 ! Generic Resource Block 
-.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*
+.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
 
 ! General Allowlist for Network Filters
 @@||*Logo.*^$image,domain=anichin.*
