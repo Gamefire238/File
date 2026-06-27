@@ -4,3 +4,4 @@
 ##div[data-position="home_middle"]
 ##div[data-position="home_bottom"]
 ##button:has-text(Show Ads)
+##button:has-text(Hide Ads)
