@@ -1,5 +1,8 @@
+[Adblock Plus 2.0]
+! Title: FilterEx
+! Description: personal experiential filter 
 
-! ---------- Bersihkan bekas iklan (generik / tanpa domain) ----------!
+
 ##.partner-slot-frame
 ##div[data-position="home_top"]
 ##div[data-position="home_middle"]
