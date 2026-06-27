@@ -24,11 +24,12 @@ game-popup
 ||blogspot.com*close*^$image,3p
 ||blogger.*/img^$image,3p
 ||*video*/*/*/*/*/*^$media,3p
-||bewbin.*^$image
-||bicolink.*^$image
-||lajangspot.*^$image
+!||bewbin.*^$image
+!||bicolink.*^$image
+!||lajangspot.*^$image
 
 ! Generic Resource Block 
+^$image,domain=bewbin.*|bicolink.*|lajangspot.*
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
 
 ! General Allowlist for Network Filters
