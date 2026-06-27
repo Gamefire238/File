@@ -1,4 +1,6 @@
-! ---------- Bersihkan bekas iklan secara generik (uji coba) ----------!
-##.partner-slot-frame:has(div[style*="display: none"])
-##div[data-position="home_top"]:has(button:has-text(Show Ads))
-##button:has-text(Show Ads):remove()
+! ---------- Bersihkan bekas iklan (generik / tanpa domain) ----------!
+##.partner-slot-frame
+##div[data-position="home_top"]
+##div[data-position="home_middle"]
+##div[data-position="home_bottom"]
+##button:has-text(Show Ads)
