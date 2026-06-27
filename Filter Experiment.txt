@@ -1,0 +1,6 @@
+desu.*##div[class*="partner-slot-frame"]:has(div[style*="display: none"])
+desu.*##div[data-position="home_top"]:has(button:has-text("Show Ads"))
+desu.*##div[data-position="home_middle"]:has(button:has-text("Show Ads"))
+desu.*##div[data-position="home_bottom"]:has(button:has-text("Show Ads"))
+desu.*##div[data-position="bottom_footer"]:has(button:has-text("Show Ads"))
+desu.*##button:has-text("Show Ads")
