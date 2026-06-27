@@ -26,10 +26,10 @@ game-popup
 ||*video*/*/*/*/*/*^$media,3p
 !||bewbin.*^$image
 !||bicolink.*^$image
-||lajangspot.*^$image
+!||lajangspot.*^$image
 
 ! Generic Resource Block
-!||*$image,domain=bewbin.*|bicolink.com|bicolink.xyz|bicolink.net|lajangspot.web.id|Newsbico.*|Pastelink.*|Justpaste.*
+*$image,domain=bewbin.*|bicolink.com|bicolink.xyz|bicolink.net|lajangspot.web.id|Newsbico.*|Pastelink.*|Justpaste.*
 *$image,domain=bewbin.*|bicolink.*|lajangspot.*|Newsbico.*|Pastelink.*|Justpaste.*
 !^$image,domain=bewbin.*|bicolink.*|lajangspot.*|Newsbico.*|Pastelink.*|Justpaste.*
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
