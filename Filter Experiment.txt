@@ -1,6 +1,4 @@
-##div[class*="partner-slot-frame"]:has(div[style*="display: none"])
-##div[data-position="home_top"]:has(button:has-text("Show Ads"))
-##div[data-position="home_middle"]:has(button:has-text("Show Ads"))
-##div[data-position="home_bottom"]:has(button:has-text("Show Ads"))
-##div[data-position="bottom_footer"]:has(button:has-text("Show Ads"))
-##button:has-text("Show Ads")
+! ---------- Bersihkan bekas iklan secara generik (uji coba) ----------!
+##.partner-slot-frame:has(div[style*="display: none"])
+##div[data-position="home_top"]:has(button:has-text(Show Ads))
+##button:has-text(Show Ads):remove()
