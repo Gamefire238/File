@@ -8,7 +8,8 @@ shinigami.*##.bg-base-card.aspect-\[16\/2\]
 shinigami.*##.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
 komikcast.*##.bg-\[\#121724\]\/95
 komikcast.*##[role="alert"]
-komikcast.fit##div[style*="position: absolute"][style*="left: -9999px"]
+komikcast.*##div[style*="position: absolute"][style*="left: -9999px"]
+komikcast.*##div.adsbygoogle[style*="position: absolute"]
 ##span#close-teaser
 ##.partner-slot-frame
 ##div[data-position="home_top"]
@@ -17,6 +18,8 @@ komikcast.fit##div[style*="position: absolute"][style*="left: -9999px"]
 ##button[class*="items-center"][class*="gap-1.5"][class*="px-4.5"]
 
 ! --------- Scriptlet blocking filters ------!
+komikcast.fit##[role="alert"]:has-text(/AdBlock/i)
+||notepad.bidangusaha.co.id^$script,3p
 
 ! -------------- Network filters ------------!
 ! Domain-based Block
