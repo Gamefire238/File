@@ -39,8 +39,5 @@ game-popup
 @@/.*googleusercontent.*s(500|1080).*/$image,domain=desu.*
 
 
-!@@/^https?:\/\/googleusercontent\..*s(500|1080)/$image,domain=desu.*
-!@@||googleusercontent.*(500|1080)^$image,domain=desu.*
-!@@||googleusercontent.com/*/500/*|/*/1080/*$image,domain=desu.*
 !@@||googleusercontent.*500^$image,domain=desu.*
 !@@||googleusercontent.*1080^$image,domain=desu.*
