@@ -6,6 +6,7 @@
 ! --------- element hiding rules ------------!
 shinigami.*##.bg-base-card.aspect-\[16\/2\]
 shinigami.*##.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
+##span#close-teaser
 ##.partner-slot-frame
 ##div[data-position="home_top"]
 ##div[data-position="home_middle"]
