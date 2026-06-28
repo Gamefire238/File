@@ -6,6 +6,11 @@
 ! --------- element hiding rules ------------!
 shinigami.*##.bg-base-card.aspect-\[16\/2\]
 shinigami.*##.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
+##.partner-slot-frame
+##div[data-position="home_top"]
+##div[data-position="home_middle"]
+##div[data-position="home_bottom"]
+##button[class*="items-center"][class*="gap-1.5"][class*="px-4.5"]
 
 ! --------- Scriptlet blocking filters ------!
 
@@ -30,11 +35,7 @@ game-popup
 !||lajangspot.*^$image
 
 ! Generic Resource Block
-!*$image,domain=bewbin.*|bicolink.com|bicolink.xyz|bicolink.net|lajangspot.web.id|Newsbico.*|Pastelink.*|Justpaste.*
-!||*$image,domain=bewbin.*|bicolink.*|lajangspot.*|Newsbico.*|Pastelink.*|Justpaste.*
-^$image,domain=bewbin.*|bicolink.*|lajangspot.*|Newsbico.*|Pastelink.*|Justpaste.*
-
-!*$image,domain=bewbin.*|bicolink.*|lajangspot.*|Newsbico.*|Pastelink.*|Justpaste.*
+.$image,domain=bewbin.*|bicolink.*|lajangspot.web.id|Newsbico.*|Pastelink.*|Justpaste.*
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
 
 ! General Allowlist for Network Filters
