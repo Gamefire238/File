@@ -18,7 +18,6 @@ shinigami.*##.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-
 ! Domain-based Block
 ads-enc
 game-popup
-||hilltopads.*^
 
 ! Pattern-based Block
 ||desu*.gif^$image
