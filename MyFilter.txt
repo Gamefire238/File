@@ -16,7 +16,7 @@ komikcast.*##[role="alert"]
 ##button[class*="items-center"][class*="gap-1.5"][class*="px-4.5"]
 
 ! --------- Scriptlet blocking filters ------!
-komikcast.fit##[role="alert"]:has-text(/AdBlock/i)
+komikcast.*##[role="alert"]:has-text(/AdBlock/i)
 
 ! -------------- Network filters ------------!
 ! Domain-based Block
