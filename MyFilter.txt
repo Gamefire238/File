@@ -24,7 +24,7 @@ game-popup
 ||blogspot.com*close*^$image,3p
 ||blogger.*/img^$image,3p
 ||*video*/*/*/*/*/*^$media,3p
-||lajangspot.web.id^$image
+!||lajangspot.web.id^$image
 !||bewbin.*^$image
 !||bicolink.*^$image
 !||lajangspot.*^$image
