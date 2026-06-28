@@ -17,14 +17,11 @@ komikcast.*##[role="alert"]
 
 ! --------- Scriptlet blocking filters ------!
 komikcast.fit##[role="alert"]:has-text(/AdBlock/i)
-||notepad.bidangusaha.co.id^$script,3p
 
 ! -------------- Network filters ------------!
 ! Domain-based Block
 ads-enc
 game-popup
-||minio.imgkc1.my.id/prod/ads/$image,3p
-||zeus.fun^$popup,3p
 
 ! Pattern-based Block
 ||desu*.gif^$image
@@ -35,6 +32,7 @@ game-popup
 ||blogspot.com*close*^$image,3p
 ||blogger.*/img^$image,3p
 ||*video*/*/*/*/*/*^$media,3p
+||notepad.bidangusaha.co.id^$script,3p
 
 ! Generic Resource Block
 .$image,domain=bewbin.*|bicolink.*|lajangspot.web.id|Newsbico.*|Pastelink.*|Justpaste.*
