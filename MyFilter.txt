@@ -8,8 +8,6 @@ shinigami.*##.bg-base-card.aspect-\[16\/2\]
 shinigami.*##.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
 komikcast.*##.bg-\[\#121724\]\/95
 komikcast.*##[role="alert"]
-komikcast.*##div[style*="position: absolute"][style*="left: -9999px"]
-komikcast.*##div.adsbygoogle[style*="position: absolute"]
 ##span#close-teaser
 ##.partner-slot-frame
 ##div[data-position="home_top"]
@@ -25,6 +23,8 @@ komikcast.fit##[role="alert"]:has-text(/AdBlock/i)
 ! Domain-based Block
 ads-enc
 game-popup
+||minio.imgkc1.my.id/prod/ads/$image,3p
+||zeus.fun^$popup,3p
 
 ! Pattern-based Block
 ||desu*.gif^$image
