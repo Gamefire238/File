@@ -39,8 +39,8 @@ game-popup
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
 
 ! General Allowlist for Network Filters
-@@||*Logo.*^$image,domain=anichin.*
 @@||desu.*/content/manga/$image
+@@||googleusercontent.*Logo.*^$image,domain=anichin.*
 @@/.*googleusercontent.*s(500|1080).*/$image,domain=desu.*
 
 !@@/googleusercontent.*s(500|1080)/$image,domain=desu.*
