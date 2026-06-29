@@ -11,7 +11,7 @@ shinigami.*##.bg-base-card.aspect-\[16\/2\],.fixed.top-0.left-0.w-screen.h-scree
 !komikcast.*##[role="alert"]
 komikcast.*##.bg-\[\#121724\]\/95,[role="alert"]
 nekopoi.*##.nk-ad-slot,.nk-ad-banner,.nk-ad-left,.nk-ad-pagenav,.nk-ad-mobile-top,.nk-ad-mobile,.nk-ad-mobile-bottom,.nk-ad-pagenav-slot
-##span#close-teaser
+animasu.*##span#close-teaser
 ##.partner-slot-frame
 ##div[data-position="home_top"]
 ##div[data-position="home_middle"]
