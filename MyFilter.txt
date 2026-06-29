@@ -4,20 +4,11 @@
 ! $third-party = $3p
 
 ! --------- element hiding rules ------------!
-!shinigami.*##.bg-base-card.aspect-\[16\/2\]
-!shinigami.*##.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
+animasu.*##span#close-teaser
 shinigami.*##.bg-base-card.aspect-\[16\/2\],.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
-!komikcast.*##.bg-\[\#121724\]\/95
-!komikcast.*##[role="alert"]
 komikcast.*##.bg-\[\#121724\]\/95,[role="alert"]
 nekopoi.*##.nk-ad-slot,.nk-ad-banner,.nk-ad-left,.nk-ad-pagenav,.nk-ad-mobile-top,.nk-ad-mobile,.nk-ad-mobile-bottom,.nk-ad-pagenav-slot
-animasu.*##span#close-teaser
 desu.*##.partner-slot-frame,div[data-position="home_top"],div[data-position="home_middle"],div[data-position="home_bottom"],button[class*="items-center"][class*="gap-1.5"][class*="px-4.5"]
-!##.partner-slot-frame
-!##div[data-position="home_top"]
-!##div[data-position="home_middle"]
-!##div[data-position="home_bottom"]
-!##button[class*="items-center"][class*="gap-1.5"][class*="px-4.5"]
 
 ! --------- Scriptlet blocking filters ------!
 komikcast.*##[role="alert"]:has-text(/AdBlock/i)
@@ -47,7 +38,3 @@ game-popup
 @@||googleusercontent.*Logo.*^$image,domain=anichin.*
 @@/.*googleusercontent.*s(500|1080).*/$image,domain=desu.*
 
-!@@/googleusercontent.*s(500|1080)/$image,domain=desu.*
-!@@/googleusercontent.*[Ll]ogo/$image,domain=anichin.*
-!@@||googleusercontent.*500^$image,domain=desu.*
-!@@||googleusercontent.*1080^$image,domain=desu.*
