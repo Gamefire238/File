@@ -7,8 +7,9 @@
 !shinigami.*##.bg-base-card.aspect-\[16\/2\]
 !shinigami.*##.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
 shinigami.*##.bg-base-card.aspect-\[16\/2\],.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
-komikcast.*##.bg-\[\#121724\]\/95
-komikcast.*##[role="alert"]
+!komikcast.*##.bg-\[\#121724\]\/95
+!komikcast.*##[role="alert"]
+komikcast.*##.bg-\[\#121724\]\/95,[role="alert"]
 nekopoi.*##.nk-ad-slot,.nk-ad-banner,.nk-ad-left,.nk-ad-pagenav,.nk-ad-mobile-top,.nk-ad-mobile,.nk-ad-mobile-bottom,.nk-ad-pagenav-slot
 ##span#close-teaser
 ##.partner-slot-frame
