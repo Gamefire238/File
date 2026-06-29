@@ -39,10 +39,10 @@ game-popup
 .gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
 
 ! General Allowlist for Network Filters
-@@||Logo.*^$image,domain=anichin.*
+@@||*Logo.*^$image,domain=anichin.*
 @@||desu.*/content/manga/$image
 @@/.*googleusercontent.*s(500|1080).*/$image,domain=desu.*
 
-
+!@@/googleusercontent.*[Ll]ogo/$image,domain=anichin.*
 !@@||googleusercontent.*500^$image,domain=desu.*
 !@@||googleusercontent.*1080^$image,domain=desu.*
