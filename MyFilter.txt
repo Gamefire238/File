@@ -11,7 +11,7 @@ nekopoi.*##.nk-ad-slot,.nk-ad-banner,.nk-ad-left,.nk-ad-pagenav,.nk-ad-mobile-to
 desu.*##.partner-slot-frame,div[data-position="home_top"],div[data-position="home_middle"],div[data-position="home_bottom"],button[class*="items-center"][class*="gap-1.5"][class*="px-4.5"]
 
 ! --------- Scriptlet blocking filters ------!
-komikcast.*##[role="alert"]:has-text(/AdBlock/i)
+
 
 ! -------------- Network filters ------------!
 ! Domain-based Block
