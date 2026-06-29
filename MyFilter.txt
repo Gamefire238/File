@@ -4,6 +4,7 @@
 ! $third-party = $3p
 
 ! --------- element hiding rules ------------!
+nekopoi.*##[class*="nk-ad-"]
 animasu.*##span#close-teaser
 komikcast.*##.bg-\[\#121724\]\/95,[role="alert"]
 shinigami.*##.bg-base-card.aspect-\[16\/2\],.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
