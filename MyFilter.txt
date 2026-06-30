@@ -31,7 +31,7 @@ game-popup
 
 ! Generic Resource Block
 .$image,domain=bewbin.*|bicolink.*|lajangspot.web.id|Newsbico.*|Pastelink.*|Justpaste.*
-.gif$image,domain=otakudesu.*|komikcast.*|anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
+.gif$image,domain=otakudesu.*|anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
 
 ! General Allowlist for Network Filters
 @@||desu.*/content/manga/$image
