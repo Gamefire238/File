@@ -26,6 +26,9 @@
 ||blogspot.com*close*.^$image,3p
 //.*blogspot\.com.*(\.gif|close).*/$image
 
+!||*video*/*/*/*/*/*^$media,3p,domain=anichin*
+
+
 !*$image,domain=bewbin.*|bicolink.com|bicolink.xyz|bicolink.net|lajangspot.web.id|Newsbico.*|Pastelink.*|Justpaste.*
 !||*$image,domain=bewbin.*|bicolink.*|lajangspot.*|Newsbico.*|Pastelink.*|Justpaste.*
 ^$image,domain=bewbin.*|bicolink.*|lajangspot.*|Newsbico.*|Pastelink.*|Justpaste.*
