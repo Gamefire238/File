@@ -25,7 +25,7 @@ game-popup
 ||rocketcdn*.gif^$image
 ||blogger.*/img^$image,3p
 ||notepad.bidangusaha.co.id^$script,3p
-||*video*/*/*/*/*/*.^$media,3p,domain=anichin*
+||*video*/*/*/*/*/*^$media,3p,domain=anichin*
 
 ! Generic Resource Block
 .$image,domain=bewbin.*|bicolink.*|lajangspot.*|Newsbico.*|Pastelink.*|Justpaste.*
