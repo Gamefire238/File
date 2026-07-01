@@ -19,7 +19,7 @@ ads-enc
 game-popup
 
 ! Pattern-based Block
-||desu*.gif^$image
+||*desu*.gif^$image
 ||anichin*.gif^$image
 ||komikcast*.gif^$image
 ||rocketcdn*.gif^$image
