@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: MyFilter
 ! Description: personal experiential filter 
-! $third-party = $3p, 3.bp. -.gif|$image
+! $third-party = $3p, 3.bp. -.gif|$image web.id
 
 ! --------- element hiding rules ------------!
 nekopoi.*##[class*="nk-ad-"]
@@ -24,11 +24,11 @@ game-popup
 ||komikcast*.gif^$image
 ||rocketcdn*.gif^$image
 ||blogger.*/img^$image,3p
-!||*video*/*/*/*/*/*.^$media,3p
 ||notepad.bidangusaha.co.id^$script,3p
+||*video*/*/*/*/*/*.^$media,3p,domain=anichin*
 
 ! Generic Resource Block
-.$image,domain=bewbin.*|bicolink.*|lajangspot.web.id|Newsbico.*|Pastelink.*|Justpaste.*
+.$image,domain=bewbin.*|bicolink.*|lajangspot.*|Newsbico.*|Pastelink.*|Justpaste.*
 .gif$image,domain=anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
 
 ! General Allowlist for Network Filters
