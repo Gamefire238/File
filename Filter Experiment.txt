@@ -39,3 +39,40 @@
 ##div[data-position="home_bottom"]
 ##button:has-text(Show Ads)
 ##button:has-text(Hide Ads)
+
+
+
+chatgpt.com###page-header > div.pointer-events-none\!.flex.flex-1.items-center.\*\:pointer-events-auto:nth-child(2) > div.block.lg\:hidden:last-child > div.inline-flex.items-center.gap-1.rounded-full.text-sm.font-medium.pe-2.py-2.bg-\[\#F1F1FB\].text-\[\#5D5BD0\].hover\:bg-\[\#E4E4F6\].dark\:bg-\[\#373669\].dark\:text-\[\#DCDBF6\].dark\:hover\:bg-\[\#414071\]
+chatgpt.com###thread-bottom-container > div.-mt-4.text-token-text-secondary.relative.flex.min-h-8.w-full.items-center.justify-center.p-2.text-center.text-xs.\[view-transition-name\:var\(--vt-disclaimer\)\].md\:px-\[60px\]:last-child
+chatgpt.com###page-header > div.pointer-events-none\!.flex.flex-1.items-center.\*\:pointer-events-auto:nth-child(2) > div.block.lg\:hidden:last-child > div.inline-flex.items-center.gap-1.rounded-full.text-sm.font-medium.py-2.bg-\[\#F1F1FB\].text-\[\#5D5BD0\].hover\:bg-\[\#E4E4F6\].dark\:bg-\[\#373669\].dark\:text-\[\#DCDBF6\].dark\:hover\:bg-\[\#414071\]
+f95zone.to###top > div.uix_fabBar.uix_fabBar--active:last-child
+chatgpt.com###page-header > div.pointer-events-none\!.flex.flex-1.items-center.\*\:pointer-events-auto:nth-child(2) > div.block.lg\:hidden:last-child > div.inline-flex.items-center.gap-1.rounded-full.text-sm.font-medium.bg-\[\#F1F1FB\].text-\[\#5D5BD0\].hover\:bg-\[\#E4E4F6\].dark\:bg-\[\#373669\].dark\:text-\[\#DCDBF6\].dark\:hover\:bg-\[\#414071\] > button.button-glimmer-cta.relative.flex.items-center.gap-1.rounded-full.bg-transparent.ps-2\.5.text-current.focus\:outline-none.py-2.pe-3
+chatgpt.com###page-header > div.pointer-events-none\!.flex.flex-1.items-center.\*\:pointer-events-auto:nth-child(2) > div.block.lg\:hidden:last-child > div.inline-flex.items-center.gap-1.rounded-full.text-sm.font-medium.pe-2.bg-\[\#F1F1FB\].text-\[\#5D5BD0\].hover\:bg-\[\#E4E4F6\].dark\:bg-\[\#373669\].dark\:text-\[\#DCDBF6\].dark\:hover\:bg-\[\#414071\] > button.ms-0.flex.h-4.w-4.items-center.justify-center.rounded-full.text-\[black\].hover\:bg-\[\#E4E4F6\].dark\:text-\[white\].dark\:hover\:bg-\[\#414071\].transform.transition-all.duration-200.ease-out.pointer-events-auto.visible.translate-x-0.opacity-100:last-child
+f95zone.to###top > div.p-body:nth-child(3) > div.p-body-inner > div.uix_contentWrapper:nth-child(2) > div.p-body-main > div.p-body-content > div.p-body-header.cover.cover-thread.cover-thread-135827.cover-hasImage:nth-child(2) > div.pageContent > div.uix_headerInner--opposite:last-child > div.p-title-pageAction > div.br-wrapper.br-theme-fontawesome-stars > div.br-widget.br-widget--withSelected.bratr-rating:last-child
+@@||blogger.googleusercontent.com/img^$image,domain=impervert.com
+
+! Patch Aman - komikcast.fit
+||notepad.bidangusaha.co.id^$script,3p
+||minio.imgkc1.my.id/prod/ads/$image,3p
+||zeus.fun^$popup,3p
+komikcast.fit##[role="alert"]:has-text(/AdBlock/i)
+komikcast.fit##button[aria-label="Close ads"]
+komikcast.fit#%#//scriptlet('prevent-fetch', 'adsbygoogle')
+komikcast.fit##div.adsbygoogle[style*="position: absolute"]
+komikcast.fit##a[href*="/login"]
+komikcast.fit##.adsbygoogl||notepad.bidangusaha.co.id^$script,3p
+
+komikcast.fit##a[href*=".site/login"]
+komikcast.fit##a[href*=".cam/login"]
+komikcast.fit##a[href*=".space/login"]
+komikcast.fit##a[href*="zeus.fun"]
+komikcast.fit##.bg-\[\#121724\]\/95
+komikcast.fit##[role="alert"]
+komikcast.fit##button[aria-label="Close ads"]
+komikcast.fit##.adsbygoogle
+komikcast.fit##div[style*="position: absolute"][style*="left: -9999px"]
+
+||notepad.bidangusaha.co.id^$script,3p
+komikcast.fit#%#//scriptlet('ubo-aeld', 'visibilitychange')
+komikcast.fit#%#//scriptlet('ubo-aeld', 'focus')
+komikcast.fit#%#//scriptlet('ubo-nowoif')
