@@ -14,11 +14,11 @@ desu.*##.partner-slot-frame,div[data-position="home_top"],div[data-position="hom
 
 
 ! -------------- Network filters ------------!
-! Domain-based Block
+! Domain Based Block
 ads-enc
 game-popup
 
-! Pattern-based Block
+! Pattern Based Block
 ||*desu*.gif^$image
 ||anichin*.gif^$image
 ||komikcast*.gif^$image
