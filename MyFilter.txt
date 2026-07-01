@@ -35,5 +35,5 @@ game-popup
 ! General Allowlist for Network Filters
 @@||desu.*/content/manga/$image
 @@||googleusercontent.*Logo.*^$image,domain=anichin.*
-@@/.*googleusercontent.*s(500|1080).*/$image,domain=desu.*
+@@/googleusercontent.*s(500|1080)/$image,domain=desu.*
 
