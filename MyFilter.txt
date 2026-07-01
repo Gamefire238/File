@@ -23,15 +23,13 @@ game-popup
 ||anichin*.gif^$image
 ||komikcast*.gif^$image
 ||rocketcdn*.gif^$image
-||blogspot.com*.gif^$image
-||blogspot.com*close*.^$image,3p
 ||blogger.*/img^$image,3p
 ||*video*/*/*/*/*/*.^$media,3p
 ||notepad.bidangusaha.co.id^$script,3p
 
 ! Generic Resource Block
 .$image,domain=bewbin.*|bicolink.*|lajangspot.web.id|Newsbico.*|Pastelink.*|Justpaste.*
-.gif$image,domain=otakudesu.*|anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
+.gif$image,domain=anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
 
 ! General Allowlist for Network Filters
 @@||desu.*/content/manga/$image
