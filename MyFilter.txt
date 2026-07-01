@@ -24,7 +24,7 @@ game-popup
 ||komikcast*.gif^$image
 ||rocketcdn*.gif^$image
 ||blogger.*/img^$image,3p
-||*video*/*/*/*/*/*.^$media,3p
+!||*video*/*/*/*/*/*.^$media,3p
 ||notepad.bidangusaha.co.id^$script,3p
 
 ! Generic Resource Block
