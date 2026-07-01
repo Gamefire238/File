@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: MyFilter
 ! Description: personal experiential filter 
-! $third-party = $3p
+! $third-party = $3p, 3.bp.
 
 ! --------- element hiding rules ------------!
 nekopoi.*##[class*="nk-ad-"]
@@ -23,7 +23,7 @@ game-popup
 ||anichin*.gif^$image
 ||komikcast*.gif^$image
 ||rocketcdn*.gif^$image
-||3.bp.blogspot.com/*.gif^$image
+||blogspot.com/*.gif^$image
 ||blogspot.com*close*.^$image,3p
 ||blogger.*/img^$image,3p
 ||*video*/*/*/*/*/*.^$media,3p
