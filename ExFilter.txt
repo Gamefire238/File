@@ -29,8 +29,7 @@ game-popup
 
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|Newsbico.*|Pastelink.*|Justpaste.*
-.gif$image,domain=anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
+.gif$image,domain=anichin.*|animasu.*|shinigami.*|mgkomik.*
 
 ! General Allowlist for Network Filters
-@@||pic.desu.xxx^$image
 @@||googleusercontent.*Logo.*^$image,domain=anichin.*
