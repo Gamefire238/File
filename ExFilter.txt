@@ -29,11 +29,11 @@ game-popup
 
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|Newsbico.*|Pastelink.*|Justpaste.*
-.gif$image,domain=anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*
+.gif$image,domain=anichin.*|animasu.*|shinigami.*|desu.*|mgkomik.*|~pic.desu.*
 
 ! General Allowlist for Network Filters
-@@||desu.*/manga/^$image
-@@||desu.*/uploads/^$image
+!@@||desu.*/manga/^$image
+!@@||desu.*/uploads/^$image
 @@||googleusercontent.*Logo.*^$image,domain=anichin.*
 !@@/(manga|uploads|s500|s1080)/$image,domain=desu.*
 !@@/googleusercontent.*s(500|1080)/$image,domain=desu.*
