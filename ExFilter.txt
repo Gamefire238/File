@@ -8,7 +8,7 @@ nekopoi.*##[class*="nk-ad-"]
 animasu.*##span#close-teaser
 komikcast.*##.bg-\[\#121724\]\/95,[role="alert"]
 shinigami.*##.bg-base-card.aspect-\[16\/2\],.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
-desu.*##.partner-slot-frame,div[data-position="home_top"],div[data-position="home_middle"],div[data-position="home_bottom"],button[class*="items-center"][class*="gap-1.5"][class*="px-4.5"],.flex-col.flex.h-full
+desu.*##.partner-slot-frame,div[data-position="home_top"],div[data-position="home_middle"],div[data-position="home_bottom"],button[class*="items-center"][class*="gap-1.5"][class*="px-4.5"],.flex-col.flex.h-full,.sm\:px-0.px-4
 
 ! --------- Scriptlet blocking filters ------!
 
