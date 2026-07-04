@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Title: MyFilter
-! Description: personal experiential filter 
+! Title: MyFilter 
+! Description: gudang pengetahuan
 ! $third-party = $3p, 3.bp. -.gif|$image 
 
 ! --------- element hiding rules ------------!
