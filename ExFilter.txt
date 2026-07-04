@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: MyFilter
+! Title: ExFilter
 ! Description: personal experiential filter 
 ! $third-party = $3p, 3.bp. -.gif|$image 
 
