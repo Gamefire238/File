@@ -35,4 +35,6 @@ game-popup
 @@||desu.*/content/manga/$image
 @@||googleusercontent.*Logo.*^$image,domain=anichin.*
 @@/googleusercontent.*s(500|1080)/$image,domain=desu.*
+@@/(manga|uploads|s500|s1080)/$image,domain=desu.*
+
 
