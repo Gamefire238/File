@@ -12,7 +12,6 @@ desu.*##.partner-slot-frame,div[data-position^="home_"],button[class*="items-cen
 
 ! --------- Scriptlet blocking filters ------!
 
-
 ! -------------- Network filters ------------!
 ! Domain Based Block
 ads-enc
