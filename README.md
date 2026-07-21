@@ -1,1 +1,1 @@
-just a fun project
+just a ex project
