@@ -1,1 +1,1 @@
-just a ex project
+just something
