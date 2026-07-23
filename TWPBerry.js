@@ -265,62 +265,74 @@
     }
 
     // ============ TOMBOL UTAMA (⚙️) ============
-    function createMainButton() {
-        const btn = document.createElement('div');
-        btn.id = 'berry-main-btn';
-        btn.innerHTML = '⚙️';
-        btn.style.cssText = `
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            z-index: 999998;
-            background: #1a1a2e;
-            color: white;
-            width: 55px;
-            height: 55px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 26px;
-            cursor: pointer;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.4);
-            border: 2px solid #4285f4;
-            user-select: none;
-            transition: transform 0.2s, background 0.2s;
-        `;
-        btn.onmouseover = () => {
-            btn.style.transform = 'scale(1.1)';
-            btn.style.background = '#4285f4';
-        };
-        btn.onmouseout = () => {
-            btn.style.transform = 'scale(1)';
-            btn.style.background = '#1a1a2e';
-        };
-        btn.onclick = async function() {
-            const panel = document.getElementById('berry-translate-panel');
-            
-            // Jika panel terbuka, tutup
-            if (panel.style.display === 'block') {
-                panel.style.display = 'none';
-                return;
-            }
+// ============ TOMBOL UTAMA (MODERN) ============
+function createMainButton() {
+    const btn = document.createElement('div');
+    btn.id = 'berry-main-btn';
+    btn.innerHTML = '🌐';
+    btn.style.cssText = `
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 999998;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        cursor: pointer;
+        background: rgba(26, 26, 46, 0.75);
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
+        border: 1.5px solid rgba(66, 133, 244, 0.4);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        color: #e8e8e8;
+        user-select: none;
+        transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        font-family: -apple-system, sans-serif;
+        line-height: 1;
+        text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+    `;
+    
+    btn.onmouseover = () => {
+        btn.style.transform = 'scale(1.15)';
+        btn.style.background = 'rgba(66, 133, 244, 0.85)';
+        btn.style.borderColor = 'rgba(66, 133, 244, 0.9)';
+        btn.style.boxShadow = '0 6px 25px rgba(66, 133, 244, 0.4), inset 0 1px 0 rgba(255,255,255,0.2)';
+        btn.style.color = '#ffffff';
+    };
+    
+    btn.onmouseout = () => {
+        btn.style.transform = 'scale(1)';
+        btn.style.background = 'rgba(26, 26, 46, 0.75)';
+        btn.style.borderColor = 'rgba(66, 133, 244, 0.4)';
+        btn.style.boxShadow = '0 4px 15px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.1)';
+        btn.style.color = '#e8e8e8';
+    };
+    
+    btn.onclick = async function() {
+        const panel = document.getElementById('berry-translate-panel');
 
-            // Cek apakah ada teks yang dipilih
-            const selection = window.getSelection().toString().trim();
-            if (selection) {
-                // Jika ada teks dipilih → terjemahkan
-                const translated = await translateText(selection, SETTINGS.targetLang);
-                alert('📝 Terjemahan:\n\n' + translated);
-            } else {
-                // Jika tidak ada → buka panel pengaturan
-                panel.style.display = 'block';
-                loadSettingsToPanel();
-            }
-        };
-        document.body.appendChild(btn);
-        return btn;
-    }
+        if (panel.style.display === 'block') {
+            panel.style.display = 'none';
+            return;
+        }
+
+        const selection = window.getSelection().toString().trim();
+        if (selection) {
+            const translated = await translateText(selection, SETTINGS.targetLang);
+            alert('📝 Terjemahan:\n\n' + translated);
+        } else {
+            panel.style.display = 'block';
+            loadSettingsToPanel();
+        }
+    };
+    
+    document.body.appendChild(btn);
+    return btn;
+}
 
     // ============ PROGRESS BAR ============
     function showProgress(show) {
