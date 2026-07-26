@@ -19,7 +19,6 @@ game-popup
 
 ! Pattern Based Block
 !||*desu*.gif^
-||blogspot.com^
 ||anichin*.gif^
 ||komikcast*.gif^
 ||rocketcdn*.gif^
