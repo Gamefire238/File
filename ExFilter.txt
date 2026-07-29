@@ -30,4 +30,4 @@ game-popup
 
 ! General Allowlist for Network Filters
 @@Logo.$domain=anichin.*
-@@||googleusercontent.*Logo$domain=anichin.*
+!@@||googleusercontent.*Logo$domain=anichin.*
