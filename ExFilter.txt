@@ -4,6 +4,7 @@
 ! $third-party = $3p, 3.bp. -.gif|$image 
 
 ! --------- element hiding rules ------------!
+f95zone.*##.br-wrapper
 nekopoi.*##[class*="nk-ad-"]
 animasu.*##span#close-teaser
 komikcast.*##.bg-\[\#121724\]\/95,[role="alert"]
