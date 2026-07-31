@@ -29,6 +29,7 @@ game-popup
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*
 
 ! General Allowlist for Network Filters
-!@@Logo.$image,domain=anichin.*
 @@/Logo/$image,domain=anichin.*
+
+!@@Logo.$image,domain=anichin.*
 !@@||googleusercontent.*Logo$image,domain=anichin.*
