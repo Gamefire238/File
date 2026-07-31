@@ -5,13 +5,11 @@
 
 ! --------- element hiding rules ------------!
 f95zone.*##.br-wrapper
+desu.*##.partner-slot-frame
 nekopoi.*##[class*="nk-ad-"]
 animasu.*##span#close-teaser
 komikcast.*##.bg-\[\#121724\]\/95,[role="alert"]
 shinigami.*##.bg-base-card.aspect-\[16\/2\],.fixed.top-0.left-0.w-screen.h-screen.bg-base-bg\/40.backdrop-blur-sm
-desu.*##.partner-slot-frame
-!desu.*##div[data-position^="home_"]
-!desu.*##.partner-slot-frame,div[data-position^="home_"],button[class*="items-center"][class*="gap-1.5"],.flex-col.flex.h-full
 
 ! --------- Scriptlet blocking filters ------!
 
