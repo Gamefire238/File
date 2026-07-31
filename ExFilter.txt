@@ -22,7 +22,7 @@ game-popup
 !||*desu*.gif^
 ||anichin*.gif^
 ||komikcast*.gif^
-||googleusercontent.com/img^$3p
+!||googleusercontent.com/img^$3p
 !/\.[a-z0-9.]+\/video\/([a-z0-9]+\/){2,6}/$media
 
 ! Generic Resource Block
@@ -30,7 +30,7 @@ game-popup
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*
 
 ! General Allowlist for Network Filters
-@@/Logo/$image,domain=anichin.*
+!@@/Logo/$image,domain=anichin.*
 
 !@@Logo.$image,domain=anichin.*
 !@@||googleusercontent.*Logo$image,domain=anichin.*
