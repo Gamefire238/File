@@ -20,7 +20,7 @@ game-popup
 /SBOBETMAINDOUJIN.webp$image
 
 ! Pattern Based Block
-!||Blogger*.gif^
+||Blogger*.gif^
 ||anichin*.gif^
 ||komikcast*.gif^
 !||googleusercontent.com/img^$3p
@@ -28,7 +28,7 @@ game-popup
 
 ! Generic Resource Block
 ^$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|Newsbico.*|Pastelink.*|Justpaste.*
-.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|googleusercontent.*
+.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*
 
 ! General Allowlist for Network Filters
 !@@/Logo/$image,domain=anichin.*
