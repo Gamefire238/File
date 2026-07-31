@@ -76,3 +76,6 @@ komikcast.fit##div[style*="position: absolute"][style*="left: -9999px"]
 komikcast.fit#%#//scriptlet('ubo-aeld', 'visibilitychange')
 komikcast.fit#%#//scriptlet('ubo-aeld', 'focus')
 komikcast.fit#%#//scriptlet('ubo-nowoif')
+
+!desu.*##div[data-position^="home_"]
+!desu.*##.partner-slot-frame,div[data-position^="home_"],button[class*="items-center"][class*="gap-1.5"],.flex-col.flex.h-full
