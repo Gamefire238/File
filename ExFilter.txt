@@ -17,7 +17,7 @@ komikcast.*##.bg-\[\#121724\]\/95
 /SBOBETMAINDOUJIN.webp$image
 
 ! Pattern Based Block
-||Blogger*.gif^
+||blogger*.gif^
 ||anichin*.gif^
 ||komikcast*.gif^
 ||komikcast*/auth^
