@@ -3,6 +3,7 @@
 ! Description: personal experiential filter 
 
 ! --------- element hiding rules ------------!
+animasu.*##.wrapper
 f95zone.*##.br-wrapper
 desu.*##.partner-slot-frame
 nekopoi.*##[class*="nk-ad-"]
