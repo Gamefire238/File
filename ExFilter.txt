@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ExFilter
-! Description: personal experiential filter 
+! Description: Personal Experiential Filter 
 
-! --------- element hiding rules ------------!
+! --------- Element Hiding Rules ------------!
 animasu.*##.wrapper
 f95zone.*##.br-wrapper
 desu.*##.partner-slot-frame
@@ -10,24 +10,24 @@ nekopoi.*##[class*="nk-ad-"]
 animasu.*##span#close-teaser
 komikcast.*##.bg-\[\#121724\]\/95
 
-! --------- scriptlet blocking filters ------!
+! --------- Scriptlet Blocking Filters ------!
 
-! -------------- network filters ------------!
-! domain based block
+! -------------- Network Filters ------------!
+! Domain based Block
 /SBOBETMAINDOUJIN.webp$image
 
-! pattern based block
+! Pattern based Block
 ||blogger*.gif^
 ||anichin*.gif^
 ||komikcast*.gif^
 ||komikcast*/auth^
 ||googleusercontent.com^$domain=animasu.*
 
-! generic resource block
+! Generic Resource Block
 ^$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|Newsbico.*|Pastelink.*|Justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*
 
-! general network allowlist
+! General Network Allowlist
 !@@/Logo/$image,domain=anichin.*
 !@@Logo.$image,domain=anichin.*
 !@@||googleusercontent.*Logo$image,domain=anichin.*
