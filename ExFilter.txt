@@ -24,7 +24,7 @@ komikcast.*##.bg-\[\#121724\]\/95
 
 ! Generic Resource Block
 ^$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|Newsbico.*|Pastelink.*|Justpaste.*
-!.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*
+.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*
 
 ! General Allowlist for Network Filters
 
