@@ -10,24 +10,24 @@ nekopoi.*##[class*="nk-ad-"]
 animasu.*##span#close-teaser
 komikcast.*##.bg-\[\#121724\]\/95
 
-! --------- Scriptlet blocking filters ------!
+! --------- scriptlet blocking filters ------!
 
-! -------------- Network filters ------------!
-! Domain Based Block
+! -------------- network filters ------------!
+! domain based block
 /SBOBETMAINDOUJIN.webp$image
 
-! Pattern Based Block
+! pattern based block
 ||blogger*.gif^
 ||anichin*.gif^
 ||komikcast*.gif^
 ||komikcast*/auth^
 ||googleusercontent.com^$domain=animasu.*
 
-! Generic Resource Block
+! generic resource block
 ^$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|Newsbico.*|Pastelink.*|Justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*
 
-! General Allowlist for Network Filters
+! network allowlist
 !@@/Logo/$image,domain=anichin.*
 !@@Logo.$image,domain=anichin.*
 !@@||googleusercontent.*Logo$image,domain=anichin.*
