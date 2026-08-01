@@ -27,7 +27,7 @@ komikcast.*##.bg-\[\#121724\]\/95
 ^$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|Newsbico.*|Pastelink.*|Justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*
 
-! network allowlist
+! general network allowlist
 !@@/Logo/$image,domain=anichin.*
 !@@Logo.$image,domain=anichin.*
 !@@||googleusercontent.*Logo$image,domain=anichin.*
