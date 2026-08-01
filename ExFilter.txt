@@ -13,7 +13,7 @@ komikcast.*##.bg-\[\#121724\]\/95
 
 ! -------------- Network filters ------------!
 ! Domain Based Block
-ads-enc
+/ads-enc/
 game-popup
 /SBOBETMAINDOUJIN.webp$image
 
