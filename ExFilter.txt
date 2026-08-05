@@ -25,7 +25,7 @@ komikcast.*##.bg-\[\#121724\]\/95
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
-^$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|Newsbico.*|Pastelink.*|Justpaste.*|desu.*
+^$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*|desu.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*
 
 ! General Network Allowlist
