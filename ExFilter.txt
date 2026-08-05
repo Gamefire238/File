@@ -17,11 +17,11 @@ komikcast.*##.bg-\[\#121724\]\/95
 /SBOBETMAINDOUJIN.webp$image
 
 ! Pattern based Block
-||blogspot.com^
-||blogger.*.gif^
+!||blogspot.com^
 ||anichin*.gif^
 ||komikcast*.gif^
 ||komikcast*/auth^
+||googleusercontent.com*.gif^
 ||googleusercontent.com^$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
