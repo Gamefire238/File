@@ -18,7 +18,7 @@ komikcast.*##.bg-\[\#121724\]\/95
 
 ! Pattern based Block
 ||blogspot.com^
-||blogger*.gif^
+||blogger.*.gif^
 ||anichin*.gif^
 ||komikcast*.gif^
 ||komikcast*/auth^
