@@ -11,6 +11,7 @@ animasu.*##span#close-teaser
 komikcast.*##.bg-\[\#121724\]\/95
 
 ! --------- Scriptlet Blocking Filters ------!
+||komikcast.fit^
 auth/login?
 ! -------------- Network Filters ------------!
 ! Domain based Block
