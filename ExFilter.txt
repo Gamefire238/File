@@ -22,7 +22,7 @@ komikcast.*##.bg-\[\#121724\]\/95
 ||anichin*.gif^
 ||komikcast*.gif^
 ||komikcast*/auth^
-||googleusercontent.com^$domain=animasu.*
+||googleusercontent.com^$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
 ^$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|Newsbico.*|Pastelink.*|Justpaste.*
