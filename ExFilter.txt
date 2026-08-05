@@ -21,7 +21,7 @@ komikcast.*##.bg-\[\#121724\]\/95
 ||anichin*.gif^
 ||komikcast*.gif^
 ||komikcast*/auth^
-||googleusercontent.com*.gif^
+||googleusercontent.com*.gif^$3p
 ||googleusercontent.com^$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
