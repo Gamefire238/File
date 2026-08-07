@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ExFilter
 ! Description: Personal Experiential Filter 
+! Expires: 1 days
 
 ! --------- Element Hiding Rules ------------!
 animasu.*##.wrapper
