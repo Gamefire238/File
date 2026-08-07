@@ -22,6 +22,7 @@ komikcast.*##.bg-\[\#121724\]\/95
 ||anichin*.gif^
 ||komikcast*.gif^
 ||komikcast*/auth^
+||jwpcdn.com/player/*.js^
 ||googleusercontent.com*.gif$3p
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
 
