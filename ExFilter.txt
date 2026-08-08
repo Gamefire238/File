@@ -23,8 +23,8 @@ komikcast.*##.bg-\[\#121724\]\/95
 ||komikcast*.gif^
 ||komikcast*/auth^
 ||jwpcdn.com/player/*/vast.js^
-||googleusercontent.com*.gif$3p
-||googleusercontent.com$domain=animasu.*|otakudesu.*
+||blogger.*.gif$3p
+||blogger.$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
 ^$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
