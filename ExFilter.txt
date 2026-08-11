@@ -10,6 +10,7 @@ desu.*##.partner-slot-frame
 nekopoi.*##[class*="nk-ad-"]
 animasu.*##span#close-teaser
 komikcast.*##.bg-\[\#121724\]\/95
+vidoy.vidoo.*##.dark-mode.share-ad > div > span
 
 ! --------- Scriptlet Blocking Filters ------!
 
