@@ -25,7 +25,7 @@ vidoy.vidoo.*##.dark-mode.share-ad > div > span
 ||komikcast*/auth^
 ||jwpcdn.com/player/*/vast.js^
 ||googleusercontent.com*.gif$3p
-||googleusercontent.com$domain=animasu.*|otakudesu.*
+||googleusercontent.com$domain=otakudesu.blog|otakudesu.cloud
 
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
