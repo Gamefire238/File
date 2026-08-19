@@ -1,1 +1,32 @@
-||komikcast*.net^
+[Adblock Plus 2.0]
+! Title: ExFilter
+! Description: Personal Experiential Filter 
+! Expires: 1 days
+
+! --------- Element Hiding Rules ------------!
+animasu.*##.wrapper
+f95zone.*##.br-wrapper
+desu.*##.partner-slot-frame
+nekopoi.*##[class*="nk-ad-"]
+animasu.*##span#close-teaser
+komikcast.*##.bg-\[\#121724\]\/95
+vidoy.vidoo.*##.dark-mode.share-ad > div > span
+
+! --------- Scriptlet Blocking Filters ------!
+
+! -------------- Network Filters ------------!
+! Domain based Block
+/SBOBETMAINDOUJIN.webp$image
+
+! Pattern based Block
+!||blogspot.com^
+||anichin*.gif^
+||komikcast*.gif^
+||komikcast*/auth^
+||jwpcdn.com/player/*/vast.js^
+||googleusercontent.com*.gif$3p
+||googleusercontent.com$domain=animasu.*|otakudesu.*
+
+! Generic Resource Block
+*$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
+.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|androidadult.*
