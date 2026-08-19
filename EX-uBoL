@@ -28,5 +28,5 @@ vidoy.vidoo.*##.dark-mode.share-ad > div > span
 ||googleusercontent.com$domain=otakudesu.blog|otakudesu.cloud
 
 ! Generic Resource Block
-*$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
-.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|androidadult.*
+*$image,domain=lajangspot.web.id|bewbin.com|bicolink.com|bicolink.net|go.bicolink.net|newsbico.com|pastelink.net|justpaste.it|justpaste.id
+.gif$domain=anichin.moe|anichin.cafe|anichin.care|animasu.care|animasu.cc|shinigami.to|mgkomik.id|mgkomik.cc|otakudesu.blog|androidadult.*
