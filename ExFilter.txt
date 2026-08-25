@@ -19,10 +19,8 @@ vidoy.vidoo.*##.dark-mode.share-ad > div > span
 /SBOBETMAINDOUJIN.webp$image
 
 ! Pattern based Block
-!||blogspot.com^
 ||anichin*.gif^
-||komikcast*.gif^
-||komikcast*/auth^
+||voratoon*.gif^
 ||jwpcdn.com/player/*/vast.js^
 ||googleusercontent.com*.gif$3p
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
