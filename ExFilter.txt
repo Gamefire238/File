@@ -4,7 +4,7 @@
 ! Expires: 1 days
 
 ! --------- Element Hiding Rules ------------!
-animasu.*##.wrapper
+!animasu.*##.wrapper
 f95zone.*##.br-wrapper
 desu.*##.partner-slot-frame
 nekopoi.*##[class*="nk-ad-"]
