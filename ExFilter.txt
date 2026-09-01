@@ -7,6 +7,7 @@
 f95zone.*##.br-wrapper
 desu.*##.partner-slot-frame
 nekopoi.*##[class*="nk-ad-"]
+github.com##.gap-2.flex-row.d-flex > button
 animasu.*##span#close-teaser,.wrapper > .bixbox
 vidoy.vidoo.*##.dark-mode.share-ad > div > span
 
