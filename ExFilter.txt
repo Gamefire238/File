@@ -8,9 +8,9 @@ f95zone.*##.br-wrapper
 desu.*##.partner-slot-frame
 nekopoi.*##[class*="nk-ad-"]
 voratoon.*##[class*="ad-slot"]
-github.com##.gap-2.flex-row.d-flex > button
-animasu.*###close-teaser,.wrapper > .bixbox
-vidoy.vidoo.*##.dark-mode.share-ad > div > span
+github.com##.gap-2.flex-row.d-flex>button
+animasu.*###close-teaser,.wrapper>.bixbox
+vidoy.vidoo.*##.dark-mode.share-ad>div>span
 
 ! --------- Scriptlet Blocking Filters ------!
 
