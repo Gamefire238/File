@@ -27,7 +27,7 @@ vidoy.vidoo.*##.dark-mode.share-ad>div>span
 
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
-.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*
+.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*
 
 ! General Network Allowlist
 !@@/Logo/$image,domain=anichin.*
