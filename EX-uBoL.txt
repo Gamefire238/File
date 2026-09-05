@@ -4,13 +4,13 @@
 ! Expires: 1 days
 
 ! --------- Element Hiding Rules ------------!
-animasu.*##.wrapper
 f95zone.*##.br-wrapper
 desu.*##.partner-slot-frame
 nekopoi.*##[class*="nk-ad-"]
-animasu.*##span#close-teaser
-komikcast.*##.bg-\[\#121724\]\/95
-vidoy.vidoo.*##.dark-mode.share-ad > div > span
+voratoon.*##[class*="ad-slot"]
+github.com##.gap-2.flex-row.d-flex>button
+animasu.*###close-teaser,.wrapper>.bixbox
+vidoy.vidoo.*##.dark-mode.share-ad>div>span
 
 ! --------- Scriptlet Blocking Filters ------!
 
@@ -19,10 +19,8 @@ vidoy.vidoo.*##.dark-mode.share-ad > div > span
 /SBOBETMAINDOUJIN.webp$image
 
 ! Pattern based Block
-!||blogspot.com^
 ||anichin*.gif^
-||komikcast*.gif^
-||komikcast*/auth^
+||voratoon*.gif^
 ||jwpcdn.com/player/*/vast.js^
 ||googleusercontent.com*.gif$3p
 ||googleusercontent.com$domain=otakudesu.blog|otakudesu.cloud
