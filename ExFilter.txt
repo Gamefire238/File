@@ -24,10 +24,10 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ! Pattern based Block
 ||anichin*.gif^
 ||voratoon*.gif^
+||bewbin.*/ad-step.js^
 ||jwpcdn.com/player/*/vast.js^
 ||googleusercontent.com*.gif$3p
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
-
 ! Generic Resource Block
 *$image,popup,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*
