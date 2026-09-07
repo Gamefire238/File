@@ -29,7 +29,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||googleusercontent.com*.gif$3p
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
 ! Generic Resource Block
-*$image,popup,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
+*$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*
 
 ! General Network Allowlist
