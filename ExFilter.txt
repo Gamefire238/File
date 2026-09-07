@@ -9,11 +9,10 @@ f95zone.*##.br-wrapper
 desu.*##.partner-slot-frame
 nekopoi.*##[class*="nk-ad-"]
 voratoon.*##[class*="ad-slot"]
-!github.com##.gap-2.flex-row.d-flex>button
 animasu.*###close-teaser,.wrapper>.bixbox
 vidoy.vidoo.*##.dark-mode.share-ad>div>span
-github.com##.pagehead-actions :is(a[href*="/sponsors/"], a[href$="/forks"]):upward(li)
 rou.*###section-top,.grid-cols-2.grid,.bg-background,.justify-center.flex,.grid.my-2
+github.com##.pagehead-actions :is(a[href*="/sponsors/"], a[href$="/forks"]):upward(.pagehead-actions > *)
 
 ! --------- Scriptlet Blocking Filters ------!
 bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
