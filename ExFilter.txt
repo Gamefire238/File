@@ -11,7 +11,7 @@ nekopoi.*##[class*="nk-ad-"]
 voratoon.*##[class*="ad-slot"]
 animasu.*###close-teaser,.wrapper>.bixbox
 vidoy.vidoo.*##.dark-mode.share-ad>div>span
-##button[aria-label*="Watch"], a[href*="/sponsors"]
+github.com##button[aria-label*="Watch"], a[href*="/sponsors"]
 rou.*###section-top,.grid-cols-2.grid,.bg-background,.justify-center.flex,.grid.my-2
 
 ! --------- Scriptlet Blocking Filters ------!
