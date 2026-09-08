@@ -30,7 +30,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||androidadult.com*/spicybox*^
 ||jwpcdn.com/player/*/vast.js^
 ||googleusercontent.com*.gif$3p
-||googleusercontent.com/*/s160*$domain=desu.*
+||googleusercontent.com*/s160*$domain=desu.*
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
