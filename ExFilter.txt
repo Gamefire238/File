@@ -35,7 +35,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
-.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*
+.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*|androidadult.*
 
 ! General Network Allowlist
 !@@/Logo/$image,domain=anichin.*
