@@ -27,7 +27,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||voratoon*.gif^
 ||bewbin.*/ad-step.js^
 ||jwpcdn.com/*/vast.js^
-||androidadult.com/*/golove^
+||androidadult.com/*/golove*^
 ||androidadult.com/*/spicybox*^
 ||googleusercontent.com*.gif$3p
 ||googleusercontent.com/*/s160*$domain=desu.*
