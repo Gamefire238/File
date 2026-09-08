@@ -19,7 +19,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 
 ! -------------- Network Filters ------------!
 ! Domain based Block
-/SBOBETMAINDOUJIN.webp$image
+!/SBOBETMAINDOUJIN.webp$image
 
 ! Pattern based Block
 ||anichin*.gif^
@@ -27,7 +27,9 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||bewbin.*/ad-step.js^
 ||jwpcdn.com/player/*/vast.js^
 ||googleusercontent.com*.gif$3p
+||googleusercontent.com/*/s160*$domain=desu.*
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
+
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*
