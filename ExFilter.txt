@@ -38,4 +38,4 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*|androidadult.*
 
 ! General Network Allowlist
-@@||androidadult.com/*lazy-load
+@@||androidadult.com/*lazy-load^
