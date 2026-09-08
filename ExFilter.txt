@@ -22,9 +22,11 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 !/SBOBETMAINDOUJIN.webp$image
 
 ! Pattern based Block
+||animeapp.org^
 ||anichin*.gif^
 ||voratoon*.gif^
 ||bewbin.*/ad-step.js^
+||androidadult.com/*spicybox
 ||jwpcdn.com/player/*/vast.js^
 ||googleusercontent.com*.gif$3p
 ||googleusercontent.com/*/s160*$domain=desu.*
@@ -32,7 +34,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
-.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*
+.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*|androidadult.*
 
 ! General Network Allowlist
 !@@/Logo/$image,domain=anichin.*
