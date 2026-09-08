@@ -11,8 +11,8 @@ nekopoi.*##[class*="nk-ad-"]
 voratoon.*##[class*="ad-slot"]
 animasu.*###close-teaser,.wrapper>.bixbox
 vidoy.vidoo.*##.dark-mode.share-ad>div>span
+##button[aria-label*="Watch"], a[href*="/sponsors"]
 rou.*###section-top,.grid-cols-2.grid,.bg-background,.justify-center.flex,.grid.my-2
-github.com##.pagehead-actions :is(a[href*="/sponsors/"], a[href$="/forks"]):upward(.pagehead-actions > *)
 
 ! --------- Scriptlet Blocking Filters ------!
 bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
