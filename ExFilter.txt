@@ -38,6 +38,4 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*|androidadult.*
 
 ! General Network Allowlist
-!@@/Logo/$image,domain=anichin.*
-!@@Logo.$image,domain=anichin.*
-!@@||googleusercontent.*Logo$image,domain=anichin.*
+@@||androidadult.com/*lazy-load
