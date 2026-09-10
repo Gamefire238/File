@@ -13,18 +13,25 @@ animasu.*###close-teaser,.wrapper>.bixbox
 vidoy.vidoo.*##.dark-mode.share-ad>div>span
 
 ! --------- Scriptlet Blocking Filters ------!
+bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 
 ! -------------- Network Filters ------------!
 ! Domain based Block
-/SBOBETMAINDOUJIN.webp$image
 
 ! Pattern based Block
+||animeapp.org^
 ||anichin*.gif^
 ||voratoon*.gif^
-||jwpcdn.com/player/*/vast.js^
+||bewbin.*/ad-step.js^
+||jwpcdn.com/*/vast.js^
+||androidadult.com/*/golove*^
+||androidadult.com/*/spicybox*^
 ||googleusercontent.com*.gif$3p
 ||googleusercontent.com$domain=otakudesu.blog|otakudesu.cloud
 
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.com|bicolink.com|bicolink.net|go.bicolink.net|newsbico.com|pastelink.net|justpaste.it|justpaste.id
-.gif$image,domain=anichin.moe|anichin.cafe|anichin.care|anichin.team|anichin.watch|animasu.care|animasu.cc|shinigami.to|mgkomik.id|otakudesu.blog|animasu.love
+.gif$domain=anichin.moe|anichin.care|anichin.cafe|anichin.team|animasu.care|animasu.cc|animasu.love|shinigami.to|mgkomik.id|otakudesu.blog|rou.video|androidadult.com
+
+! --------- General Network Allowlist ------------!
+@@||androidadult.com/*lazy-load^
