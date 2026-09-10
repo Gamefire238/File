@@ -26,10 +26,10 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||anichin*.gif^
 ||voratoon*.gif^
 ||bewbin.*/ad-step.js^
-||androidadult.com/*/golove*^
-||androidadult.com/*/spicybox*^
+||androidadult.com*/golove*^
+||androidadult.com*/spicybox*^
 ||googleusercontent.com*.gif$3p
-||googleusercontent.com/*/s160*$domain=desu.*
+||googleusercontent.com*/s160*$domain=desu.*
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
