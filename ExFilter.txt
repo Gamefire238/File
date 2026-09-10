@@ -7,8 +7,7 @@
 bewbin.*###bewbin-pop
 f95zone.*##.br-wrapper
 desu.*##.partner-slot-frame
-!animasu.*##.wrapper>.bixbox
-animasu.*##div[class*="bixbox"]
+animasu.*##.wrapper>.bixbox
 nekopoi.*##[class*="nk-ad-"]
 voratoon.*##[class*="ad-slot"]
 androidadult.*##.appitems .slick-current
