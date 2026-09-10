@@ -25,6 +25,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||animeapp.org^
 ||anichin*.gif^
 ||voratoon*.gif^
+||rou.*/clickadu.js^
 ||bewbin.*/ad-step.js^
 ||androidadult.com*/golove*^
 ||androidadult.com*/spicybox*^
