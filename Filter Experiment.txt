@@ -2,6 +2,8 @@
 ! Title: FilterEx
 ! Description: personal experiential filter 
 
+vidoy.vidoo.*##.dark-mode.share-ad>div>span
+
 !||lajangspot.web.id^$image
 !||bewbin.*^$image
 !||bicolink.*^$image
