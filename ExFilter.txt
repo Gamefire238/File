@@ -12,8 +12,8 @@ nekopoi.*##[class*="nk-ad-"]
 voratoon.*##[class*="ad-slot"]
 androidadult.*##.appitems .slick-current
 github.com##[class*="Subscriptions"],[data-testid="sponsor-button"]
-rou.*###section-top,.grid-cols-2.grid,.bg-background
-rou.video##div[class*="min-h-[250px]"][class*="max-w-[300px]"]
+!rou.*###section-top,.grid-cols-2.grid,.bg-background
+rou.video##div[class*="min-h-[250px]"][class*="max-w-[300px]"],div[data-slot="dialog-positioner"],.xkm65
 
 ! --------- Scriptlet Blocking Filters ------!
 bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
