@@ -11,7 +11,6 @@ animasu.*##.wrapper>.bixbox
 nekopoi.*##[class*="nk-ad-"]
 voratoon.*##[class*="ad-slot"]
 androidadult.*##.appitems .slick-current
-vidoy.vidoo.*##.dark-mode.share-ad>div>span
 github.com##[class*="Subscriptions"],[data-testid="sponsor-button"]
 rou.*###section-top,.grid-cols-2.grid,.bg-background,.justify-center.flex,.grid.my-2
 
