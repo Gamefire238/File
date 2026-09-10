@@ -20,7 +20,6 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 
 ! -------------- Network Filters ------------!
 ! Domain based Block
-!/SBOBETMAINDOUJIN.webp$image
 
 ! Pattern based Block
 ||animeapp.org^
