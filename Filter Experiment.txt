@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Title: FilterEx
-! Description: personal experiential filter 
+! Title: rubbish bin
+! Description: container for holding garbage 
 
 vidoy.vidoo.*##.dark-mode.share-ad>div>span
 
