@@ -21,7 +21,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ! Domain based Block
 
 ! Pattern based Block
-||*$popup
+||http*$popup
 ||animeapp.org^
 ||anichin*.gif^
 ||voratoon*.gif^
