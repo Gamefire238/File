@@ -22,9 +22,8 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 
 ! Pattern based Block
 *$popup
-||animeapp.org^
 ||anichin*.gif^
-||voratoon*.gif^
+||animeapp.org^
 ||rou.*/clickadu.js^
 ||bewbin.*/ad-step.js^
 ||androidadult.com*/meow4
