@@ -21,7 +21,6 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ! Domain based Block
 
 ! Pattern based Block
-*$popup
 ||anichin*.gif^
 ||animeapp.org^
 ||rou.*/clickadu.js^
@@ -34,6 +33,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
+*$popup
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*|androidadult.*
 
