@@ -4,7 +4,6 @@
 ! Expires: 1 days
 
 ! --------- Element Hiding Rules ------------!
-bewbin.*###bewbin-pop
 f95zone.*##.br-wrapper
 desu.*##.partner-slot-frame
 animasu.*##.wrapper>.bixbox
@@ -12,6 +11,7 @@ nekopoi.*##[class*="nk-ad-"]
 voratoon.*##[class*="ad-slot"]
 androidadult.*##.appitems .slick-current
 github.com##[class*="Subscriptions"],[data-testid="sponsor-button"]
+bewbin.*###bewbin-pop,.row,p.wp-block-paragraph,.bewbi-entity-placement
 rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class*="red-"],[class*="-green"],[class*="mx-auto"],[class*="250px"]
 
 ! --------- Scriptlet Blocking Filters ------!
