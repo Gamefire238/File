@@ -28,7 +28,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||androidadult.com*/meow4
 ||androidadult.com*/golove
 ||androidadult.com*/spicybox2
-||googleusercontent.com*.gif$third-party
+||googleusercontent.com*.gif$3p
 ||googleusercontent.com*/s160*^$domain=desu.*
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
 
@@ -39,3 +39,6 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 
 ! General Network Allowlist
 @@||androidadult.com/*lazy-load^
+
+! print: $third-party = $3p
+
