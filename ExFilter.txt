@@ -28,7 +28,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||androidadult.com*/meow4
 ||androidadult.com*/golove
 ||androidadult.com*/spicybox2
-||googleusercontent.com*.gif$3p
+||googleusercontent.com*.gif$third-party
 ||googleusercontent.com*/s160*^$domain=desu.*
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
 
