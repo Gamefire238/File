@@ -30,7 +30,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||androidadult.com/*/golove*^
 ||androidadult.com/*/spicybox*^
 ||googleusercontent.com*.gif$3p
-||googleusercontent.com$domain=otakudesu.blog|otakudesu.cloud
+||googleusercontent.com$domain=otakudesu.blog|otakudesu.cloud|animasu.love
 
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.com|bicolink.com|bicolink.net|go.bicolink.net|newsbico.com|pastelink.net|justpaste.it|justpaste.id
