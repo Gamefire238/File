@@ -33,7 +33,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||googleusercontent.com$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
-||http*$popup
+||http*^$popup
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*|androidadult.*
 
