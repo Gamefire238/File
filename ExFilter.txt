@@ -34,6 +34,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 
 ! Generic Resource Block
 *$popup
+*$frame,domain=androidadult.*
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*|androidadult.*
 
