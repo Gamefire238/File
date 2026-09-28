@@ -22,9 +22,10 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 
 ! Pattern based Block
 ||anichin*.gif^
-||animeapp.org^
+!||animeapp.org^
 ||rou.*/clickadu.js^
 ||bewbin.*/ad-step.js^
+||androidadult.com$media
 ||androidadult.com*/meow4
 ||androidadult.com*/golove
 ||androidadult.com*/spicybox2
