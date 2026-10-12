@@ -28,9 +28,9 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||androidadult.com*/spicybox2
 
 ! Blogger only 
-||blogger.*.gif$3p
-||blogger.*/s160*^$domain=desu.*
-||blogger.$domain=animasu.*|otakudesu.*
+||blogger.googleusercontent.com/*.gif$3p
+||blogger.googleusercontent.com/*/s160*^$domain=desu.*
+||blogger.googleusercontent.com$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
 *$popup
