@@ -24,8 +24,8 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 ||anichin*.gif^
 ||rou.*/clickadu.js^
 ||bewbin.*/ad-step.js^
-||androidadult.com*/meow*.js^
-||androidadult.com*/spicybox*.js^
+||androidadult.*/meow*.js^
+||androidadult.*/spicybox*.js^
 
 ! Blogger only 
 ||blogger.googleusercontent.com/*.gif$3p
