@@ -12,7 +12,7 @@ voratoon.*##[class*="ad-slot"]
 androidadult.*##.appitems .slick-current,[id^="ad-"]
 github.com##[class*="Subscriptions"],[data-testid="sponsor-button"]
 bewbin.*##body :not(.wpsafe-card):not(:has(.wpsafe-card)):not(.wpsafe-card *)
-bicolink.*##body :not(div.box-main, div.box-main *, div.nt-pay-card.nt-al-card, div.nt-pay-card.nt-al-card *, :has(div.box-main, div.nt-pay-card.nt-al-card))
+bicolink.*##body :not(.box-main, .box-main *, .nt-pay-card, .nt-pay-card *, :has(.box-main, .nt-pay-card))
 rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class*="red-"],[class*="-green"],[class*="mx-auto"],[class*="250px"]
 
 ! --------- Scriptlet Blocking Filters ------!
