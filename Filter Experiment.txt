@@ -4,6 +4,7 @@
 
 vidoy.vidoo.*##.dark-mode.share-ad>div>span
 nekopoi.*##[class*="nk-ad-"]
+bewbin.*##body :not(.wpsafe-card):not(:has(.wpsafe-card)):not(.wpsafe-card *)
 
 !||lajangspot.web.id^$image
 !||bewbin.*^$image
