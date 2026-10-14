@@ -33,7 +33,6 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 ||blogger.googleusercontent.com$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
-*$popup
 *$subdocument,media,domain=androidadult.*
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*|androidadult.*
@@ -41,4 +40,4 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 ! General Network Allowlist
 @@||androidadult.com/*lazy-load^
 
-! print: $third-party = $3p
+! notes: *$popup $third-party = $3p
