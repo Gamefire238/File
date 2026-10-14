@@ -6,7 +6,7 @@
 ! --------- Element Hiding Rules ------------!
 f95zone.*##.br-wrapper
 animasu.*##.wrapper>.bixbox
-nekopoi.*##[class*="nk-ad-"]
+nekopoi.*##[class*="-ad-"]
 androidadult.*##.appitems .slick-current,[id^="ad-"]
 github.com##[class*="Subscriptions"],[data-testid="sponsor-button"]
 bewbin.*##body :not(.wpsafe-card):not(:has(.wpsafe-card)):not(.wpsafe-card *)
