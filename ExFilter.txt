@@ -33,11 +33,11 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 ||blogger.googleusercontent.com$domain=animasu.*|otakudesu.*
 
 ! Generic Resource Block
-*$subdocument,xhr,media,third-party,domain=androidadult.*
+*$subdocument,xhr,third-party,domain=androidadult.*
 *$image,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
 .gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|otakudesu.*|rou.*|androidadult.*
 
 ! General Network Allowlist
 @@||androidadult.com/*lazy-load^
 
-! notes: *$popup $third-party = $3p
+! notes: *$popup media $third-party = $3p
