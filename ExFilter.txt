@@ -25,6 +25,7 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 ||honmia.*^
 ||anichin*.gif^
 ||bewbin.*/ad*.js^
+||bicolink.*/ad*.js^
 ||rou.*/clickadu.js^
 ||androidadult.*/meow*.js^
 ||androidadult.*/spicybox*.js^
