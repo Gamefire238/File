@@ -21,9 +21,10 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 ! Domain based Block
 
 ! Pattern based Block
+||honmia.*^
 ||anichin*.gif^
+||bewbin.*/ad*.js^
 ||rou.*/clickadu.js^
-||bewbin.*/ad-step.js^
 ||androidadult.*/meow*.js^
 ||androidadult.*/spicybox*.js^
 
