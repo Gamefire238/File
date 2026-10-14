@@ -5,7 +5,6 @@
 
 ! --------- Element Hiding Rules ------------!
 f95zone.*##.br-wrapper
-desu.*##.partner-slot-frame
 animasu.*##.wrapper>.bixbox
 nekopoi.*##[class*="nk-ad-"]
 voratoon.*##[class*="ad-slot"]
