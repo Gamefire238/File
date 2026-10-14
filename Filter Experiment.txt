@@ -3,6 +3,7 @@
 ! Description: container for holding garbage 
 
 vidoy.vidoo.*##.dark-mode.share-ad>div>span
+nekopoi.*##[class*="nk-ad-"]
 
 !||lajangspot.web.id^$image
 !||bewbin.*^$image
