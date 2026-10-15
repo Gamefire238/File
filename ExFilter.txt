@@ -36,7 +36,7 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 ! Generic Resource Block
 *$subdocument,popup,3p,domain=androidadult.*
 *$image,media,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
-.gif$domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|rou.*|androidadult.*
+.gif$image,domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|rou.*|androidadult.*
 
 ! General Network Allowlist
 @@||androidadult.com/*lazy-load^
