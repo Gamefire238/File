@@ -38,5 +38,6 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 .gif$image,domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|rou.*|androidadult.*
 
 ! General Network Allowlist
+@@||androidadult.com/*/plugins^
 
 ! notes: *$popup xhr media $third-party = $3p
