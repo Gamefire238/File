@@ -9,7 +9,7 @@ f95zone.*##.br-wrapper
 desu.*##.partner-slot-frame
 nekopoi.*##[class*="nk-ad-"]
 voratoon.*##[class*="ad-slot"]
-androidadult.*##.appitems .slick-current
+androidadult.com##.appitems .slick-current,[id^="ad-"]
 animasu.*###close-teaser,.wrapper>.bixbox
 vidoy.vidoo.*##.dark-mode.share-ad>div>span
 github.com##[class*="Subscriptions"],[data-testid="sponsor-button"]
@@ -31,6 +31,7 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ||androidadult.com/*/spicybox*^
 ||googleusercontent.com*.gif$3p
 ||googleusercontent.com$domain=otakudesu.blog|otakudesu.cloud|animasu.love
+*$subdocument,popup,3p,domain=androidadult.com
 
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.com|bicolink.com|bicolink.net|go.bicolink.net|newsbico.com|pastelink.net|justpaste.it|justpaste.id
