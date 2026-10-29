@@ -30,14 +30,17 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 ! Blogger only 
 ||blogger.googleusercontent.com/*.gif$3p
 ||blogger.googleusercontent.com/*/s1600^$domain=desu.*
-||blogger.googleusercontent.com$domain=animasu.*|otakudesu.*
+||blogger.googleusercontent.com$from=animasu.*|otakudesu.*
+
+! Regex
+/\/(?:meow|spicybox)[^?#]*\.js(?:[?#]|$)/$script,domain=androidadult.*
 
 ! Generic Resource Block
-*$subdocument,media,popup,3p,domain=androidadult.*
-*$image,media,popup,domain=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
-.gif$image,domain=anichin.*|animasu.*|shinigami.*|mgkomik.*|rou.*|androidadult.*|nekopoi.*
+*$subdocument,media,popup,3p,from=androidadult.*
+*$image,media,popup,from=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
+.gif$image,from=anichin.*|animasu.*|shinigami.*|mgkomik.*|rou.*|androidadult.*|nekopoi.*
 
 ! General Network Allowlist
 @@||androidadult.com/*/plugins^
 
-! notes: *$popup xhr media $third-party = $3p
+! notes: from domain *$popup xhr media $third-party = $3p
