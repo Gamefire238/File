@@ -9,8 +9,8 @@ nekopoi.*##[class*="-ad-"]
 animasu.*##.wrapper>.bixbox
 androidadult.*##.appitems .slick-current,[id^="ad-"]
 github.com##[class*="Subscriptions"],[data-testid="sponsor-button"]
-adultcomixxx.*,lewdsteam.*##body :not(#skiplinks, #skiplinks *, :has(#skiplinks))
 bewbin.*##body :not(.wpsafe-card, .wpsafe-card *, :has(.wpsafe-card))
+adultcomixxx.*,lewdsteam.*##body :not(#skiplinks, #skiplinks *, :has(#skiplinks))
 bicolink.*##body :not(.box-main, .box-main *, .nt-pay-card, .nt-pay-card *, :has(.box-main, .nt-pay-card))
 rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class*="red-"],[class*="-green"],[class*="mx-auto"],[class*="250px"]
 
