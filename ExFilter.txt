@@ -21,12 +21,7 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 ! Domain based Block
 
 ! Pattern based Block
-!||honmia.com^
-!||bewbin.*/ad*.js^
-!||bicolink.*/ad*.js^
 ||rou.*/clickadu.js^
-!||androidadult.*/meow*.js^
-!||androidadult.*/spicybox*.js^
 
 ! Blogger only 
 ||blogger.googleusercontent.com/*.gif$3p
@@ -34,7 +29,7 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 ||blogger.googleusercontent.com$from=animasu.*|otakudesu.*
 
 ! Regex only
-!/\/(?:meow|spicybox)[^?#]*\.js(?:[?#]|$)/$script,domain=androidadult.*
+/meow|spicybox/$script,domain=androidadult.*
 
 ! Generic Resource Block
 *$subdocument,media,popup,3p,from=androidadult.*|lewdsteam.*|adultcomixxx.*
