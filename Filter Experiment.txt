@@ -2,6 +2,14 @@
 ! Title: rubbish bin
 ! Description: container for holding garbage 
 
+!||honmia.com^
+!||bewbin.*/ad*.js^
+!||bicolink.*/ad*.js^
+||rou.*/clickadu.js^
+!||androidadult.*/meow*.js^
+!||androidadult.*/spicybox*.js^
+!/\/(?:meow|spicybox)[^?#]*\.js(?:[?#]|$)/$script,domain=androidadult.*
+
 vidoy.vidoo.*##.dark-mode.share-ad>div>span
 nekopoi.*##[class*="nk-ad-"]
 bewbin.*##body :not(.wpsafe-card):not(:has(.wpsafe-card)):not(.wpsafe-card *)
