@@ -4,7 +4,7 @@
 ! Expires: 1 days
 
 ! --------- Element Hiding Rules ------------!
-f95zone.*##.br-wrapper
+!f95zone.*##.br-wrapper
 nekopoi.*##[class*="-ad-"]
 animasu.*##.wrapper>.bixbox
 androidadult.*##.appitems .slick-current,[id^="ad-"]
