@@ -22,16 +22,18 @@ bewbin.*##+js(remove-class, bewbin-pop-lock, body, stay)
 ! Domain based Block
 
 ! Pattern based Block
-||animeapp.org^
-||anichin*.gif^
-||voratoon*.gif^
-||bewbin.*/ad-step.js^
-||jwpcdn.com/*/vast.js^
-||androidadult.com/*/golove*^
-||androidadult.com/*/spicybox*^
-||googleusercontent.com*.gif$3p
-||googleusercontent.com$domain=otakudesu.blog|otakudesu.cloud|animasu.love
-*$subdocument,popup,3p,domain=androidadult.com
+||blogger.googleusercontent.com/*.gif$3p
+||blogger.googleusercontent.com/*/s1600$from=desu.xxx
+||blogger.googleusercontent.com$from=animasu.vip
+
+! Regex only
+/meow|spicybox/$script,from=androidadult.com
+
+! Generic Resource Block
+*$subdocument,media,popup,3p,from=androidadult.com|lewdsteam.*|adultcomixxx.*
+*$image,media,popup,from=lajangspot.web.id|bewbin.*|bicolink.*|newsbico.*|pastelink.*|justpaste.*
+.gif$image,from=anichin.*|animasu.*|shinigami.*|mgkomik.*|rou.*|androidadult.*|nekopoi.*
+/ad$script,from=lajangspot.web.id|bewbin.com|bicolink.com|bicolink.net|go.bicolink.net|newsbico.com|pastelink.net|justpaste.it|justpaste.id
 
 ! Generic Resource Block
 *$image,domain=lajangspot.web.id|bewbin.com|bicolink.com|bicolink.net|go.bicolink.net|newsbico.com|pastelink.net|justpaste.it|justpaste.id
