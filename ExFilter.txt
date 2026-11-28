@@ -32,7 +32,7 @@ rou.*##div[data-slot="dialog-positioner"],a[href*="rdz4.xyz"],[id*="ad_"],[class
 
 ! Generic Resource Block
 *$subdocument,media,popup,3p,from=androidadult.com|lewdsteam.*|adultcomixxx.*
-*$media,popup,from=lajangspot.web.id|bewbin.com|bicolink.com|newsbico.*|pastelink.*|justpaste.*|mbantul.my.id
+*$media,redirect=noopmp4,from=lajangspot.web.id|bewbin.com|bicolink.com|newsbico.*|pastelink.*|justpaste.*|mbantul.my.id
 *$image,redirect=1x1-transparent.gif,from=lajangspot.web.id|bewbin.com|bicolink.com|newsbico.*|pastelink.*|justpaste.*|mbantul.my.id
 .gif$image,from=anichin.*|animasu.vip|shinigami.*|mgkomik.*|rou.*|androidadult.com|nekopoi.care
 /ad$script,from=bewbin.com|bicolink.com|mbantul.my.id
